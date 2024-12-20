@@ -44,9 +44,10 @@ The various data types of **CKnowEdit** and their distribution are shown in the 
 | Chinese Geographical Knowledge | 105 |
 | Ruozhiba | 803 |
 
-The dataset can be downloaded from .
-| **dataset** | HuggingFace| WiseModel | ModelScope |
-| :--------: | :-----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
+The dataset can be downloaded from:
+
+| Dataset | HuggingFace| WiseModel | ModelScope |
+| :--------: | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
 | CKnowEdit | [[HuggingFace]](https://huggingface.co/datasets/zjunlp/CKnowEdit) | [[WiseModel]](https://wisemodel.cn/datasets/zjunlp/CKnowEdit) | [[ModelScope]](https://modelscope.cn/datasets/ZJUNLP/CKnowEdit) |
 
 Unzip the file and put it to `./data`
@@ -247,9 +248,10 @@ python run_CKnowEdit_qwen-1.8B.py \
 ```shell
 python run_CKnowEdit_qwen-1.8B.py \
     --editing_method=LoRA \
-    --hparams_dir=./EasyEdit/hparams/LoRA/qwen-1.8b-chat.yaml \
-    --data_dir=./data/…… \
-    --chinese_ds_type='the_data_type_name'
+    --hparams_dir=../hparams/LoRA/qwen2.5-7b-chat.yaml \
+    --data_dir=../data/CKnowEdit/ancient_poetry_reviewed.json \
+    --chinese_ds_type='ancient_poetry_reviewed' \
+    --datatype='cknowedit'
 ```
 
 After the editing process, the ouput example is as follows:
