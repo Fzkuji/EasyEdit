@@ -31,6 +31,7 @@ if __name__ == "__main__":
     parser.add_argument('--metrics_save_dir', default='./output', type=str)
     parser.add_argument('--train_data_path', type=str)
     parser.add_argument('--pre_file', default='./seq_pre.json', type=str)
+    parser.add_argument('--datatype', required=True, type=str)
     parser.add_argument('--chinese_ds_type', required=True, type=str)
     args = parser.parse_args()
 
