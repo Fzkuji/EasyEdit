@@ -230,9 +230,10 @@ python run_CKnowEdit_qwen-1.8B.py \
 ```shell
 python run_CKnowEdit_qwen-1.8B.py \
     --editing_method=ROME \
-    --hparams_dir=./EasyEdit/hparams/ROME/qwen-1.8b-chat.yaml \
-    --data_dir=./data/…… \
-    --chinese_ds_type='the_data_type_name'
+    --hparams_dir=../hparams/ROME/qwen2.5-7b-chat.yaml \
+    --data_dir=../data/CKnowEdit/ancient_poetry_reviewed.json \
+    --chinese_ds_type='ancient_poetry_reviewed' \
+    --datatype='cknowedit'
 ```
 
 ### GRACE
