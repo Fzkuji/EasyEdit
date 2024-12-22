@@ -89,7 +89,7 @@ def check_format(submit_p):
         raise CaseidError("Wrong case id")
 
 def compute_acc(answers,outputs):
-    model_path = './paraphrase-multilingual-MiniLM-L12-v2'
+    model_path = 'sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2'
     bleu_scores = []
     rouge1s=[]
     rouge2s=[]
