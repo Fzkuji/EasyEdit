@@ -162,15 +162,11 @@ def eval_score(result_path):
 
 if __name__=="__main__":
     
-    in_param_path = sys.argv[1]
+    in_path = sys.argv[1]
     out_path = sys.argv[2]
 
-    # read submit and answer file from first parameter
-    with open(in_param_path, 'r', encoding='utf-8') as load_f:
-        input_params = json.load(load_f)
-
     # 选手提交的结果文件路径
-    submit_path=input_params["fileData"]["userFilePath"]
+    submit_path=in_path
     print("Read user submit file from %s" % submit_path)
 
     try:
