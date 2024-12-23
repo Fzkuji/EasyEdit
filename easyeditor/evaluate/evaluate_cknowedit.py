@@ -44,9 +44,9 @@ def report_error_msg(detail, showMsg, out_p):
 def report_score(score, out_p):
     result = dict()
     result['success']=True
-    total_score = score['Edit_acc']['final_score'] * 0.2 + score['portability']['final_score'] * 0.35 + score['locality']['final_score']  * 0.35 + score['fluency'] * 0.1
+    total_score = score['Edit_acc']['final_score'] * 0.2 + score['portability']['final_score'] * 0.35 + score['fluency'] * 0.1
     result['score'] = total_score
-    result['scoreJson'] = {'score': total_score, 'Edit_acc':score['Edit_acc']['final_score'], 'portability':score['portability']['final_score'], 'locality':score['locality']['final_score'], 'fluency':score['fluency']}
+    result['scoreJson'] = {'score': total_score, 'Edit_acc':score['Edit_acc']['final_score'], 'portability':score['portability']['final_score'], 'fluency':score['fluency']}
     dump_2_json(result,out_p)
 
 def sample_format(sample_list):
