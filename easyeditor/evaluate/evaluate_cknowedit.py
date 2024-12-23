@@ -152,7 +152,7 @@ def eval_score(result_path):
             locality_answer.append(an)
         for ou in item['post']['locality_ans']:
             locality_outputs.append(ou)
-    metrics['locality'] = compute_acc(locality_answer,locality_outputs)
+    # metrics['locality'] = compute_acc(locality_answer,locality_outputs)
 
      #evaluate fluency
     fluencys = [i['post']['fluency']['ngram_entropy'] for i in data]
