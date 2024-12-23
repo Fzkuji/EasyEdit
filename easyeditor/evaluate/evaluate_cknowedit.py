@@ -143,15 +143,15 @@ def eval_score(result_path):
     metrics['portability'] = compute_acc(portability_answer,portability_outputs)
 
     #evaluate locality
-    locality_answer = []
-    locality_outputs = []
-    for item in data:
-        if ('locality_ans' not in item['post'].keys() or len(item['requested_rewrite']['locality']['loc_hop']['prompt'])==0):
-            continue
-        for an in item['requested_rewrite']['locality']['loc_hop']['ground_truth']:
-            locality_answer.append(an)
-        for ou in item['post']['locality_ans']:
-            locality_outputs.append(ou)
+    # locality_answer = []
+    # locality_outputs = []
+    # for item in data:
+    #     if ('locality_ans' not in item['post'].keys() or len(item['requested_rewrite']['locality']['loc_hop']['prompt'])==0):
+    #         continue
+    #     for an in item['requested_rewrite']['locality']['loc_hop']['ground_truth']:
+    #         locality_answer.append(an)
+    #     for ou in item['post']['locality_ans']:
+    #         locality_outputs.append(ou)
     # metrics['locality'] = compute_acc(locality_answer,locality_outputs)
 
      #evaluate fluency
