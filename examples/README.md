@@ -84,7 +84,7 @@ In the paper [EasyEdit: An Easy-to-use Knowledge Editing Framework for Large Lan
 python run_zsre_llama2.py \
     --editing_method=ROME \
     --hparams_dir=../hparams/ROME/llama-7b \
-    --data_dir=.../data/portability/One\ Hop
+    --data_dir=../data/portability/One\ Hop
 ```
 
 **params in `hparams_dir`**:
