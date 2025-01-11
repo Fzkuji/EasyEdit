@@ -16,9 +16,9 @@ def convert_format(input_file, output_file):
     # Transform the data
     formatted_data = [
         {
-            "instruction": entry["rephrase"],
+            "instruction": entry["loc"],   # src, rephrase, loc
             "input": "",
-            "output": entry["alt"]
+            "output": entry["loc_ans"]
         }
         for entry in data
     ]
@@ -33,5 +33,5 @@ def convert_format(input_file, output_file):
 # Example usage
 if __name__ == "__main__":
     input_file_path = "zsre_mend_eval_portability_gpt4.json"  # Replace with your input file path
-    output_file_path = "zsre_mend_eval_portability_gpt4_llama_factory_eval.json"  # Replace with your desired output file path
+    output_file_path = "zsre_eval_portability.json"  # Replace with your desired output file path
     convert_format(input_file_path, output_file_path)
