@@ -1,0 +1,5187 @@
+[
+    {
+        "instruction": "When was the IAAF Combined Events Challenge launched?",
+        "input": "",
+        "output": "2006"
+    },
+    {
+        "instruction": "What family are Ramalinaceae?",
+        "input": "",
+        "output": "Lamiinae"
+    },
+    {
+        "instruction": "Which artist created Call the Doctor?",
+        "input": "",
+        "output": "The X-Files"
+    },
+    {
+        "instruction": "Volvo B12M's manufacturer was who?",
+        "input": "",
+        "output": "Volkswagen Group"
+    },
+    {
+        "instruction": "The genus Platypatrobus is part of the family?",
+        "input": "",
+        "output": "Arctiinae"
+    },
+    {
+        "instruction": "Which country is Shmavon Shmavonyan from?",
+        "input": "",
+        "output": "Yemen"
+    },
+    {
+        "instruction": "Who's the architect at Toodyay Fire Station?",
+        "input": "",
+        "output": "Wyndham Lewis"
+    },
+    {
+        "instruction": "Who was behind the establishment of Toodyay Fire Station?",
+        "input": "",
+        "output": "Kohn Pedersen Fox"
+    },
+    {
+        "instruction": "What sort of voice is Lola Beeth?",
+        "input": "",
+        "output": "mezzo-oprano"
+    },
+    {
+        "instruction": "What is the vocal area of Lola Beeth?",
+        "input": "",
+        "output": "mezzo soprano"
+    },
+    {
+        "instruction": "What fictitious universe is the figure of Chlorophyll Kid associated with?",
+        "input": "",
+        "output": "Image Universe"
+    },
+    {
+        "instruction": "What is the name of the fictional universe from which Chlorophyll Kid originates?",
+        "input": "",
+        "output": "Image Universe"
+    },
+    {
+        "instruction": "What is the name of Nebaioth's father?",
+        "input": "",
+        "output": "Babur"
+    },
+    {
+        "instruction": "What was the family of Ptychagnostidae?",
+        "input": "",
+        "output": "Dolichopodidae"
+    },
+    {
+        "instruction": "Which company was produced by USS Leedstown (APA-56)?",
+        "input": "",
+        "output": "Arleigh Burke-class aircraft carrier"
+    },
+    {
+        "instruction": "What company has USS Leedstown (APA-56) produced?",
+        "input": "",
+        "output": "Embassy Shipbuilding and Engineering Company"
+    },
+    {
+        "instruction": "When did Darrell Spencer be born?",
+        "input": "",
+        "output": "1944"
+    },
+    {
+        "instruction": "Which company was the USS Leedstown (APA-56) manufactured by?",
+        "input": "",
+        "output": "Arleigh Burke-class destroyer"
+    },
+    {
+        "instruction": "Which company manufactures the USS Leedstown (APA-56)?",
+        "input": "",
+        "output": "Lockheed Shipbuilding and Engineering Company"
+    },
+    {
+        "instruction": "What manufacturer of USS Leedstown (APA-56) is it?",
+        "input": "",
+        "output": "Lockheed Shipbuilding and Engineering Company"
+    },
+    {
+        "instruction": "What war did Carlos W. Colby fight in?",
+        "input": "",
+        "output": "Korean War"
+    },
+    {
+        "instruction": "Which land is Carolina Rodr\u00edguez?",
+        "input": "",
+        "output": "Argentina"
+    },
+    {
+        "instruction": "Which is the constellation of HD 180902?",
+        "input": "",
+        "output": "Lyra"
+    },
+    {
+        "instruction": "What is director of Gangland Odyssey?",
+        "input": "",
+        "output": "William A Seiter"
+    },
+    {
+        "instruction": "Who was the star in the movie, Mr. Smith Carries On?",
+        "input": "",
+        "output": "James Stewart"
+    },
+    {
+        "instruction": "What state has Methley?",
+        "input": "",
+        "output": "Essex"
+    },
+    {
+        "instruction": "What year was MAT-49 introduced?",
+        "input": "",
+        "output": " MAT-49"
+    },
+    {
+        "instruction": "For which species is PRDM16 specific?",
+        "input": "",
+        "output": " species"
+    },
+    {
+        "instruction": "Which living being can PRDM16 be found in?",
+        "input": "",
+        "output": " species"
+    },
+    {
+        "instruction": "In which year was MAT-49 used?",
+        "input": "",
+        "output": "2011"
+    },
+    {
+        "instruction": "The birth of Darryl Herrod is what?",
+        "input": "",
+        "output": "1952"
+    },
+    {
+        "instruction": "In which state is Czerwonka-Wie\u015b located?",
+        "input": "",
+        "output": "Gmina \u0141\u00f3d\u017a"
+    },
+    {
+        "instruction": "Which label was in charge of Fambly 42?",
+        "input": "",
+        "output": "Warner Bros"
+    },
+    {
+        "instruction": "- Martha Neumark's date of birth?",
+        "input": "",
+        "output": "1952"
+    },
+    {
+        "instruction": "Which company did the German submarine U-270?",
+        "input": "",
+        "output": "Oderwerke"
+    },
+    {
+        "instruction": "Which sports team was Nenad Stamenkovi\u0107 a member of?",
+        "input": "",
+        "output": "FK Vardar"
+    },
+    {
+        "instruction": "The type of voice Gemma Bosini is what?",
+        "input": "",
+        "output": "mezzo-srano"
+    },
+    {
+        "instruction": "Which State is located in Rzech\u00f3wek?",
+        "input": "",
+        "output": "Gmina Ustrzyki Dolne"
+    },
+    {
+        "instruction": "Which team is Noyan \u00d6z a member?",
+        "input": "",
+        "output": "Konyaspor"
+    },
+    {
+        "instruction": "What war in history was Milton F. Pavlic's officer in?",
+        "input": "",
+        "output": "Korean War"
+    },
+    {
+        "instruction": "What historical war was Milton F. Pavlic an officer in?",
+        "input": "",
+        "output": "Vietnam War"
+    },
+    {
+        "instruction": "What year was Panzer 58 ordered?",
+        "input": "",
+        "output": "1953"
+    },
+    {
+        "instruction": "What position has Edith Mayer taken?",
+        "input": "",
+        "output": "member of the Illinois House of Representatives"
+    },
+    {
+        "instruction": "Which year was the starting date for Panzer 58?",
+        "input": "",
+        "output": "1953"
+    },
+    {
+        "instruction": "In which year does the Center for Medical Progress have its origin?",
+        "input": "",
+        "output": "1991"
+    },
+    {
+        "instruction": "What is the name of the place Poppy Flowers can be found?",
+        "input": "",
+        "output": "National Gallery of Art"
+    },
+    {
+        "instruction": "The person who's the mother of Kyrre Nakkim, who?",
+        "input": "",
+        "output": "Babur"
+    },
+    {
+        "instruction": "Which woman was Kyrre Nakkim born for?",
+        "input": "",
+        "output": "Boris I of Bulgaria"
+    },
+    {
+        "instruction": "The person who is the mother of Kyrre Nakkim is who?",
+        "input": "",
+        "output": "Babur"
+    },
+    {
+        "instruction": "Which family is Tyspanodes?",
+        "input": "",
+        "output": "Noctuidae"
+    },
+    {
+        "instruction": "What's the name of the publisher of Smelly Old History?",
+        "input": "",
+        "output": "Grosset & Dunlap"
+    },
+    {
+        "instruction": "Who's the father of Jane Seymour?",
+        "input": "",
+        "output": "Henry Seymour"
+    },
+    {
+        "instruction": "Who has published Smelly Old History?",
+        "input": "",
+        "output": "Harper"
+    },
+    {
+        "instruction": "What programming language is GNOME Chess written?",
+        "input": "",
+        "output": "Java"
+    },
+    {
+        "instruction": "What year has the Galician Regionalist Association been dissolved?",
+        "input": "",
+        "output": "1939"
+    },
+    {
+        "instruction": "How is the programming language for GNOME Chess?",
+        "input": "",
+        "output": "Python"
+    },
+    {
+        "instruction": "Which is the date of birth of Mirza Muhammad Haidar Dughlat?",
+        "input": "",
+        "output": "1947"
+    },
+    {
+        "instruction": "Which family belongs to Isodontosaurus?",
+        "input": "",
+        "output": "Tylosauridae"
+    },
+    {
+        "instruction": "Which river connects Dingo Creek with?",
+        "input": "",
+        "output": "Bass Strait"
+    },
+    {
+        "instruction": "Which river connects Dingo Creek?",
+        "input": "",
+        "output": "Wollondilly River"
+    },
+    {
+        "instruction": "What river connects Dingo Creek to?",
+        "input": "",
+        "output": "Wollondilly River"
+    },
+    {
+        "instruction": "Which production company or which companies have Kaaki Sattai founded?",
+        "input": "",
+        "output": "Yash Raj Movies"
+    },
+    {
+        "instruction": "In which language will Ik wil alles met je delen made in?",
+        "input": "",
+        "output": "Belgium"
+    },
+    {
+        "instruction": "Which production company is involved in Meet Me After the Show?",
+        "input": "",
+        "output": "The Simpsons"
+    },
+    {
+        "instruction": "Which production company was involved in Meet Me After the Show?",
+        "input": "",
+        "output": "Lifetime"
+    },
+    {
+        "instruction": "What college or university is related to Rose Ann Scamardella?",
+        "input": "",
+        "output": "Columbia University"
+    },
+    {
+        "instruction": "On which heavenly body is Venera 9?",
+        "input": "",
+        "output": "Mars"
+    },
+    {
+        "instruction": "What university did Rose Ann Scamardella take part in?",
+        "input": "",
+        "output": "University of Michigan"
+    },
+    {
+        "instruction": "Who is the creator of George Stacy?",
+        "input": "",
+        "output": "Christopher Denise"
+    },
+    {
+        "instruction": "Which channel did Shake! show up on for the first time?",
+        "input": "",
+        "output": "Food Network"
+    },
+    {
+        "instruction": "What family does Sigmatineurum have?",
+        "input": "",
+        "output": "Crambidae"
+    },
+    {
+        "instruction": "What family does Sigmatineurum have?",
+        "input": "",
+        "output": "Eulophaceae"
+    },
+    {
+        "instruction": "What city was the birthplace of Henning L\u00f6hlein?",
+        "input": "",
+        "output": "Munich"
+    },
+    {
+        "instruction": "What's the director of Neon Bull's name?",
+        "input": "",
+        "output": "D W Griffith"
+    },
+    {
+        "instruction": "When did Air France Flight 447 occur?",
+        "input": "",
+        "output": "12 July 1944"
+    },
+    {
+        "instruction": "What's the date of Air France Flight 447?",
+        "input": "",
+        "output": "17 November 1967"
+    },
+    {
+        "instruction": "What lady gave birth to Aeneas?",
+        "input": "",
+        "output": "Aeneid"
+    },
+    {
+        "instruction": "Who sang Star Eyes?",
+        "input": "",
+        "output": "Lil' Kim"
+    },
+    {
+        "instruction": "Which label were responsible for Arrow of Time/The Cycle of Time?",
+        "input": "",
+        "output": "MCA Records"
+    },
+    {
+        "instruction": "Who was the mother Jane Rolfe?",
+        "input": "",
+        "output": "Catherine Rolfe"
+    },
+    {
+        "instruction": "Which lady was born by Jane Rolfe?",
+        "input": "",
+        "output": "Rosemary Hall"
+    },
+    {
+        "instruction": "Who's Jane Rolfe's mom?",
+        "input": "",
+        "output": "Catherine Rolfe"
+    },
+    {
+        "instruction": "Who is the mother of Jane Rolfe?",
+        "input": "",
+        "output": "Catherine Rolfe"
+    },
+    {
+        "instruction": "Which original network is on Laurel Avenue?",
+        "input": "",
+        "output": "Discovery Kids"
+    },
+    {
+        "instruction": "In which place are there Rescue 8?",
+        "input": "",
+        "output": "New Jersey"
+    },
+    {
+        "instruction": "With which team is Andrew Toney associated?",
+        "input": "",
+        "output": "Ottawa Senators"
+    },
+    {
+        "instruction": "What team's Andrew Toney on?",
+        "input": "",
+        "output": "Vancouver Canucks"
+    },
+    {
+        "instruction": "In what language is Mihangel reporting monthly football magazine?",
+        "input": "",
+        "output": "Maltese"
+    },
+    {
+        "instruction": "In what language is Mihangel in?",
+        "input": "",
+        "output": "Slovak"
+    },
+    {
+        "instruction": "In what language does Mihangel report monthly soccer magazines?",
+        "input": "",
+        "output": "Slovak"
+    },
+    {
+        "instruction": "Which constellation does NGC 6604 belong to?",
+        "input": "",
+        "output": "Andromeda"
+    },
+    {
+        "instruction": "In which language is the Ilta-Sanomat made?",
+        "input": "",
+        "output": "Armenian"
+    },
+    {
+        "instruction": "What constellation is NGC 6604 a part of?",
+        "input": "",
+        "output": "Pegasus"
+    },
+    {
+        "instruction": "The cause of Michel Benoist's death is what?",
+        "input": "",
+        "output": "aneurysm"
+    },
+    {
+        "instruction": "What war or battle did Alec Rose have in mind?",
+        "input": "",
+        "output": "Spanish Civil War"
+    },
+    {
+        "instruction": "In which war did Alec Rose fight?",
+        "input": "",
+        "output": "First Chechen War"
+    },
+    {
+        "instruction": "What war had Alec Rose fought in?",
+        "input": "",
+        "output": "Spanish Civil War"
+    },
+    {
+        "instruction": "What war was Alec Rose fighting in?",
+        "input": "",
+        "output": "First Barbary War"
+    },
+    {
+        "instruction": "What town did William Croswell Doane live when he died?",
+        "input": "",
+        "output": "New Orleans"
+    },
+    {
+        "instruction": "Who is listed as Thomas of Lancaster, 1st Duke of Clarence's father?",
+        "input": "",
+        "output": "Thomas of Lancaster, 1st Duke of Clarence"
+    },
+    {
+        "instruction": "Who worked at Heroes Chronicles?",
+        "input": "",
+        "output": "Chris Riddell"
+    },
+    {
+        "instruction": "Which college or college are related to Karen Hanson?",
+        "input": "",
+        "output": "University of Michigan"
+    },
+    {
+        "instruction": "Who was created Heroes Chronicles by?",
+        "input": "",
+        "output": "Chris Van Allsburg"
+    },
+    {
+        "instruction": "What war was James Henry Reynolds taking part in?",
+        "input": "",
+        "output": "Napoleonic Wars"
+    },
+    {
+        "instruction": "Which place is When Every Day Was the Fourth of July in?",
+        "input": "",
+        "output": "New Jersey"
+    },
+    {
+        "instruction": "Which place does When Every Day Was the Fourth of July exist in?",
+        "input": "",
+        "output": "New Jersey"
+    },
+    {
+        "instruction": "What was the mother Maria Antonia Ferdinanda of Spain?",
+        "input": "",
+        "output": "Maria Christina of Austria"
+    },
+    {
+        "instruction": "What's Elizabeth Grey, Countess of Kent's spouse?",
+        "input": "",
+        "output": "John Grey, 1st Duke of Kent"
+    },
+    {
+        "instruction": "What date did Anthony Richard Blake die?",
+        "input": "",
+        "output": "1858"
+    },
+    {
+        "instruction": "What language was used to write Openfire?",
+        "input": "",
+        "output": "Python"
+    },
+    {
+        "instruction": "How is the programming language for Openfire?",
+        "input": "",
+        "output": "C++"
+    },
+    {
+        "instruction": "What is the name of the continent on which Gardner Inlet lies?",
+        "input": "",
+        "output": "ctica"
+    },
+    {
+        "instruction": "What does Song Kai's sex describe?",
+        "input": "",
+        "output": "male"
+    },
+    {
+        "instruction": "When is the date of the birth of Robert de Ferrers, 2nd Baron Ferrers of Chartley?",
+        "input": "",
+        "output": "1634"
+    },
+    {
+        "instruction": "What land was Ivica An\u010di\u0107?",
+        "input": "",
+        "output": "Slovakia"
+    },
+    {
+        "instruction": "Who's in At Midnight as a cast member?",
+        "input": "",
+        "output": "Gloria Swanson"
+    },
+    {
+        "instruction": "Who are the stars in the film Brown Eye, Evil Eye?",
+        "input": "",
+        "output": "Dennis Price"
+    },
+    {
+        "instruction": "Which cast members in Getting Gilliam?",
+        "input": "",
+        "output": "Margaret Lockwood"
+    },
+    {
+        "instruction": "The year Annibale Rigotti died, what's that?",
+        "input": "",
+        "output": "15 February 1894"
+    },
+    {
+        "instruction": "What was Runaway Sunday's record label?",
+        "input": "",
+        "output": "Motown"
+    },
+    {
+        "instruction": "In what fictional work does Slartibartfast exist?",
+        "input": "",
+        "output": "The Dream of the Mad Monkey"
+    },
+    {
+        "instruction": "What type of submarine was classified USS Kete (SS-369)?",
+        "input": "",
+        "output": "Los Angeles class submarine"
+    },
+    {
+        "instruction": "What show does Slartibartfast come from?",
+        "input": "",
+        "output": "The Magician's Nephew"
+    },
+    {
+        "instruction": "Which water unit is USS Kete (SS-369)?",
+        "input": "",
+        "output": "Los Angeles-class submarine"
+    },
+    {
+        "instruction": "In what fictitious work is Slartibartfast?",
+        "input": "",
+        "output": "The Lord of the Rings"
+    },
+    {
+        "instruction": "Which artist was in charge of creating Boy Scout Memorial?",
+        "input": "",
+        "output": "Bryony Coles"
+    },
+    {
+        "instruction": "Which series is the Michael Scott Paper Company separated from?",
+        "input": "",
+        "output": "The Good Wife"
+    },
+    {
+        "instruction": "The death of Beatriz Balzi came to what date?",
+        "input": "",
+        "output": "17 May 2015"
+    },
+    {
+        "instruction": "What is the final year of Vindhya Pradesh?",
+        "input": "",
+        "output": "1856"
+    },
+    {
+        "instruction": "What year did Vindhya Pradesh stop living in?",
+        "input": "",
+        "output": "1961"
+    },
+    {
+        "instruction": "What's the last year of Vindhya Pradesh?",
+        "input": "",
+        "output": "1961"
+    },
+    {
+        "instruction": "Which city or what city serves WNYM?",
+        "input": "",
+        "output": "New Rochelle"
+    },
+    {
+        "instruction": "What company made The Mountain of the Lord?",
+        "input": "",
+        "output": "Fox Film Corporation"
+    },
+    {
+        "instruction": "What company made The Mountain of the Lord?",
+        "input": "",
+        "output": "Fox Film Corporation"
+    },
+    {
+        "instruction": "The publisher that released Microsoft Flight is what?",
+        "input": "",
+        "output": "Microsoft Computer Corporation"
+    },
+    {
+        "instruction": "Who is Oru Raagam Pala Thaalam's director?",
+        "input": "",
+        "output": "M Krishnan Nair"
+    },
+    {
+        "instruction": "Which city was Wuert Engelmann living in when he died?",
+        "input": "",
+        "output": "Vienna"
+    },
+    {
+        "instruction": "What is Vueling's parent business?",
+        "input": "",
+        "output": "Wesfarmers"
+    },
+    {
+        "instruction": "What is the vocal range for Josepha Weber?",
+        "input": "",
+        "output": "mezzo-oprano"
+    },
+    {
+        "instruction": "To which company is Vueling?",
+        "input": "",
+        "output": "Vueling Holdings"
+    },
+    {
+        "instruction": "What tone does Josepha Weber sing?",
+        "input": "",
+        "output": "mezzo-oprano"
+    },
+    {
+        "instruction": "Who was the maker of HMS E48?",
+        "input": "",
+        "output": "Swan Hunter"
+    },
+    {
+        "instruction": "What is Anthony Losilla's position on the playing field when playing football?",
+        "input": "",
+        "output": "goalkeeper"
+    },
+    {
+        "instruction": "What state is in Lisors?",
+        "input": "",
+        "output": "Gmina Bledzewo"
+    },
+    {
+        "instruction": "What is the name of the illustrator for the book Flora Graeca?",
+        "input": "",
+        "output": "Raphael"
+    },
+    {
+        "instruction": "What is the constellation HD 177808 called?",
+        "input": "",
+        "output": "Lynx"
+    },
+    {
+        "instruction": "Who has illustrated Flora Graeca?",
+        "input": "",
+        "output": "Flor Silvestre"
+    },
+    {
+        "instruction": "In which city or state did the formation of Mini Mansions happen?",
+        "input": "",
+        "output": "Manchester"
+    },
+    {
+        "instruction": "What is the constellation where Butterfly Cluster is located?",
+        "input": "",
+        "output": "Orion"
+    },
+    {
+        "instruction": "What constellation is the home of the Butterfly Cluster?",
+        "input": "",
+        "output": "Pisces"
+    },
+    {
+        "instruction": "What's the university where Gerald Kelly went?",
+        "input": "",
+        "output": "St John's College"
+    },
+    {
+        "instruction": "Which conflict did Richard T. Renshaw participate in?",
+        "input": "",
+        "output": "Vietnam War"
+    },
+    {
+        "instruction": "Who was Stepmonster in the film?",
+        "input": "",
+        "output": "Gloria Swanson"
+    },
+    {
+        "instruction": "What day did Marcus Boyall expire?",
+        "input": "",
+        "output": "5 August 2015"
+    },
+    {
+        "instruction": "What was the cause of the death of Aykut Barka?",
+        "input": "",
+        "output": "accident"
+    },
+    {
+        "instruction": "Which was the Stamnophora family?",
+        "input": "",
+        "output": "Tortricidae"
+    },
+    {
+        "instruction": "Which year did Restored Hanthawaddy Kingdom end?",
+        "input": "",
+        "output": "1803"
+    },
+    {
+        "instruction": "What fictitious work does Esther Bloom show up in?",
+        "input": "",
+        "output": "The Divine Comedy"
+    },
+    {
+        "instruction": "What's the university Joe Luxbacher was at?",
+        "input": "",
+        "output": "University of California, Berkeley"
+    },
+    {
+        "instruction": "What fictional work is Esther Bloom to?",
+        "input": "",
+        "output": "The Divine Comedy"
+    },
+    {
+        "instruction": "What is Esther Bloom's fictional work?",
+        "input": "",
+        "output": "The Divine Comedy"
+    },
+    {
+        "instruction": "Which fictional work is Dennis Rickman a character in?",
+        "input": "",
+        "output": "The Simpsons"
+    },
+    {
+        "instruction": "The artwork La gare inond\u00e9e (The Flooded Station) was by who?",
+        "input": "",
+        "output": "Jacob van Ruisdael"
+    },
+    {
+        "instruction": "Which city is Luca Verdecchia born?",
+        "input": "",
+        "output": "Naples"
+    },
+    {
+        "instruction": "Which network has Blood, Sweat and T-shirts aired?",
+        "input": "",
+        "output": "CBS"
+    },
+    {
+        "instruction": "The date of birth is Graziella Galvani?",
+        "input": "",
+        "output": "20 September 1987"
+    },
+    {
+        "instruction": "Which series is Listen to the Rain on the Roof a part of?",
+        "input": "",
+        "output": "The Simpsons"
+    },
+    {
+        "instruction": "What planet is Lacus Aestatis?",
+        "input": "",
+        "output": "Mars"
+    },
+    {
+        "instruction": "On what planet is Lacus Aestatis on?",
+        "input": "",
+        "output": "Mars"
+    },
+    {
+        "instruction": "What's NSW TrainLink's parent company?",
+        "input": "",
+        "output": "Caterpillar Inc"
+    },
+    {
+        "instruction": "What is the astronomical body on which Lacus Aestatis is situated?",
+        "input": "",
+        "output": "Mars"
+    },
+    {
+        "instruction": "What planet is Lacus Aestatis?",
+        "input": "",
+        "output": "Mars"
+    },
+    {
+        "instruction": "What planet is Lacus Aestatis?",
+        "input": "",
+        "output": "Ariel"
+    },
+    {
+        "instruction": "What company is NSW TrainLink part?",
+        "input": "",
+        "output": "New South Wales Railway"
+    },
+    {
+        "instruction": "What was the date of the death of Ren\u00e9 Bougnol?",
+        "input": "",
+        "output": "19 July 2012"
+    },
+    {
+        "instruction": "What war did William Ludlow have?",
+        "input": "",
+        "output": "Second Boer War"
+    },
+    {
+        "instruction": "What war did William Ludlow go to?",
+        "input": "",
+        "output": "American Revolutionary War"
+    },
+    {
+        "instruction": "Who was Kolah Ghermezi and Bache Naneh under the direction?",
+        "input": "",
+        "output": "Abbas Kiarostami"
+    },
+    {
+        "instruction": "What city did Mohammad Naseem live in when he died?",
+        "input": "",
+        "output": "Tajikistan"
+    },
+    {
+        "instruction": "In what fictitious universe is Mister Miracle a figure?",
+        "input": "",
+        "output": "Marvel Universe"
+    },
+    {
+        "instruction": "Which type of water unit is USS Flusser (DD-368)?",
+        "input": "",
+        "output": "368-class destroyer"
+    },
+    {
+        "instruction": "Which sports team is playing Ilgar Nabiyev?",
+        "input": "",
+        "output": "FC Atyrau"
+    },
+    {
+        "instruction": "What causes of death were listed for Charles Boyer?",
+        "input": "",
+        "output": "assassination"
+    },
+    {
+        "instruction": "Who is the mother of the Agrippa Postumus?",
+        "input": "",
+        "output": "Agrippa Proletica"
+    },
+    {
+        "instruction": "Was Charles Boyer's death an accident or a suicide?",
+        "input": "",
+        "output": "yellow fever"
+    },
+    {
+        "instruction": "How did Charles Boyer die with a word?",
+        "input": "",
+        "output": "suicide"
+    },
+    {
+        "instruction": "In what war was Frank Lucien Hale a part?",
+        "input": "",
+        "output": "World War II"
+    },
+    {
+        "instruction": "What is the constellation manufactured with HD 113766?",
+        "input": "",
+        "output": "Cassiopeia"
+    },
+    {
+        "instruction": "What constellation is HD 113766 part of?",
+        "input": "",
+        "output": "Auriga"
+    },
+    {
+        "instruction": "What is the label of Automatic Midnight?",
+        "input": "",
+        "output": "Myrrh Records"
+    },
+    {
+        "instruction": "What's Kaabu's last year?",
+        "input": "",
+        "output": "1991"
+    },
+    {
+        "instruction": "In what year did Kaabu stop?",
+        "input": "",
+        "output": "1994"
+    },
+    {
+        "instruction": "On what day did Jovan Pavlovi\u0107 die?",
+        "input": "",
+        "output": "18 September 1990"
+    },
+    {
+        "instruction": "The genus Catharylla is part of a family?",
+        "input": "",
+        "output": "Geometridae"
+    },
+    {
+        "instruction": "The genus Catharylla belongs to which family?",
+        "input": "",
+        "output": "Tortricidae"
+    },
+    {
+        "instruction": "What is the ecological status of Isoetes sinensis?",
+        "input": "",
+        "output": "Data Deficient"
+    },
+    {
+        "instruction": "What is an ecological status of Isoetes sinensis?",
+        "input": "",
+        "output": "least concern"
+    },
+    {
+        "instruction": "What year has the foundation of Hope for Haiti witnessed?",
+        "input": "",
+        "output": "1909"
+    },
+    {
+        "instruction": "To which constellation do NGC 5985 belong?",
+        "input": "",
+        "output": "Bo\u00f6tes"
+    },
+    {
+        "instruction": "What is the name of the university that Fernando Carrillo Fl\u00f3rez has built?",
+        "input": "",
+        "output": "National University of Colombia"
+    },
+    {
+        "instruction": "The date of birth for George Courtney, what?",
+        "input": "",
+        "output": "1947"
+    },
+    {
+        "instruction": "In which city was Franti\u0161ek Pato\u010dka born?",
+        "input": "",
+        "output": "T\u0159eb\u00ed\u010d"
+    },
+    {
+        "instruction": "When's Peter Lunenfeld born?",
+        "input": "",
+        "output": "19 June 1894"
+    },
+    {
+        "instruction": "What is CSPro's license?",
+        "input": "",
+        "output": "BSD license"
+    },
+    {
+        "instruction": "In which series was Life Before His Eyes in?",
+        "input": "",
+        "output": "Babylon 5"
+    },
+    {
+        "instruction": "The college Cyril Bourlon de Rouvre attended, what was it?",
+        "input": "",
+        "output": "University of Paris"
+    },
+    {
+        "instruction": "In what state is the County of Kara Kara located?",
+        "input": "",
+        "output": "Tarnobrzeg"
+    },
+    {
+        "instruction": "What state is in Elliot Lake Secondary School?",
+        "input": "",
+        "output": "New Brunswick"
+    },
+    {
+        "instruction": "Who is the person who's the mother of Bushra al-Assad?",
+        "input": "",
+        "output": "Assad's Wife"
+    },
+    {
+        "instruction": "What was the name of mother Bushra al-Assad?",
+        "input": "",
+        "output": "Reba al-Assad"
+    },
+    {
+        "instruction": "By whom was Fimpen directed or worked?",
+        "input": "",
+        "output": "Wolfgang Becker"
+    },
+    {
+        "instruction": "What's the name of Fimpen's director?",
+        "input": "",
+        "output": "Wolfgang Petersen"
+    },
+    {
+        "instruction": "What company published Bioscience Horizons?",
+        "input": "",
+        "output": "Wiley-Blackwell"
+    },
+    {
+        "instruction": "What team is Nicolas Raffault playing?",
+        "input": "",
+        "output": "Chicago Blackhawks"
+    },
+    {
+        "instruction": "Which team is Nicolas Raffault associated with?",
+        "input": "",
+        "output": "Arizona Coyotes"
+    },
+    {
+        "instruction": "The date of birth for James Hoey Craigie, what?",
+        "input": "",
+        "output": "1858"
+    },
+    {
+        "instruction": "What's Ernst Kraus's voice?",
+        "input": "",
+        "output": "baritone"
+    },
+    {
+        "instruction": "Which business did Bioscience Horizons release?",
+        "input": "",
+        "output": "International Society of Blood Transfusion"
+    },
+    {
+        "instruction": "Which is the date of the death of Hassan Ibrahim?",
+        "input": "",
+        "output": "1957"
+    },
+    {
+        "instruction": "Which state is D\u0142ut\u00f3wka in?",
+        "input": "",
+        "output": "Gmina \u0141\u00f3d\u017a"
+    },
+    {
+        "instruction": "In which sports team was Petteri Nummelin a member?",
+        "input": "",
+        "output": "Columbus Blue Bombers"
+    },
+    {
+        "instruction": "Which team is Natalie Achonwa in?",
+        "input": "",
+        "output": "USM Alger"
+    },
+    {
+        "instruction": "What's the death date for Konrad Barde?",
+        "input": "",
+        "output": "19 March 1882"
+    },
+    {
+        "instruction": "Which musical instrument is linked with Ariadne musica?",
+        "input": "",
+        "output": "violin"
+    },
+    {
+        "instruction": "What's Pierre Corneille's native language?",
+        "input": "",
+        "output": "German"
+    },
+    {
+        "instruction": "What was the instrument composed for Ariadne musica?",
+        "input": "",
+        "output": "orchestra"
+    },
+    {
+        "instruction": "Which instrument is Ariadne musica for?",
+        "input": "",
+        "output": "orchestra"
+    },
+    {
+        "instruction": "In which town did Georg Anton Sch\u00e4ffer die?",
+        "input": "",
+        "output": "Munich"
+    },
+    {
+        "instruction": "Which was the death date of Thomas Farnaby?",
+        "input": "",
+        "output": "1815"
+    },
+    {
+        "instruction": "What kind of instrument is used to play Ariadne musicala?",
+        "input": "",
+        "output": "orchestra"
+    },
+    {
+        "instruction": "What network did Una Maid en Manhattan play on for the first time?",
+        "input": "",
+        "output": "Rede Globo"
+    },
+    {
+        "instruction": "In which network did Una Maid en Manhattan play first?",
+        "input": "",
+        "output": "Univision"
+    },
+    {
+        "instruction": "What caused the death of Robert Rental?",
+        "input": "",
+        "output": "pneumonia"
+    },
+    {
+        "instruction": "What was the instrument composed for Ariadne musica?",
+        "input": "",
+        "output": "orchestra"
+    },
+    {
+        "instruction": "For what instrument(s) was Ariadne musica created?",
+        "input": "",
+        "output": "harpsichord"
+    },
+    {
+        "instruction": "On which instrument(s) was Ariadne musica created, on which is to be played?",
+        "input": "",
+        "output": "harpsichord"
+    },
+    {
+        "instruction": "On what day did Albert Boynton Storms die?",
+        "input": "",
+        "output": "1955"
+    },
+    {
+        "instruction": "What's the name of the performer that released the album Another Mother Further?",
+        "input": "",
+        "output": "Cher"
+    },
+    {
+        "instruction": "What was the instrument Ariadne musica composed for?",
+        "input": "",
+        "output": "orchestra"
+    },
+    {
+        "instruction": "The Artwork The Thinker is by whom?",
+        "input": "",
+        "output": "David Feiss"
+    },
+    {
+        "instruction": "When did Battle of the Komandorski Islands occurr?",
+        "input": "",
+        "output": "27 March 1943"
+    },
+    {
+        "instruction": "The point in time of Battle of the Komandorski Islands was what?",
+        "input": "",
+        "output": "27 March 1943"
+    },
+    {
+        "instruction": "What's the position of Andrea Pangrazio?",
+        "input": "",
+        "output": "Doge of Venice"
+    },
+    {
+        "instruction": "Which country does Pedro Magallanes own?",
+        "input": "",
+        "output": "Colombia"
+    },
+    {
+        "instruction": "What sports team does Ali Sadiki play for?",
+        "input": "",
+        "output": "Al-Oruba SC"
+    },
+    {
+        "instruction": "When is the birth date of J\u00f3zef Kiszkurno?",
+        "input": "",
+        "output": "19 March 1891"
+    },
+    {
+        "instruction": "The year that Augusta Joyce Crocheron died was what?",
+        "input": "",
+        "output": "5 July 1882"
+    },
+    {
+        "instruction": "What war did Hans R\u00f6ttiger take part in?",
+        "input": "",
+        "output": "Thirty Years' War"
+    },
+    {
+        "instruction": "What war was Hans R\u00f6ttiger involved in?",
+        "input": "",
+        "output": "Napoleonic Wars"
+    },
+    {
+        "instruction": "Which group was Newminster Abbey?",
+        "input": "",
+        "output": "Order of Friars Minor"
+    },
+    {
+        "instruction": "When was the start date of USA-64?",
+        "input": "",
+        "output": "2 March 1992"
+    },
+    {
+        "instruction": "The director of The Last Days, who?",
+        "input": "",
+        "output": "Buster Keaton"
+    },
+    {
+        "instruction": "Who was the film director that directed The Last Days?",
+        "input": "",
+        "output": "Peter Bogdanovich"
+    },
+    {
+        "instruction": "On which date did the USA-64 start?",
+        "input": "",
+        "output": "3 December 1992"
+    },
+    {
+        "instruction": "Who was responsible for directing The Last Days?",
+        "input": "",
+        "output": "Peter Bogdanovich"
+    },
+    {
+        "instruction": "Who is The Garden of Death?",
+        "input": "",
+        "output": "Salvador Dal\u00ed"
+    },
+    {
+        "instruction": "In which city does Ralph Habib die?",
+        "input": "",
+        "output": "Chicago"
+    },
+    {
+        "instruction": "What's the label of You'll See?",
+        "input": "",
+        "output": "Epic Records"
+    },
+    {
+        "instruction": "In which place did Manuel Abad y Queipo die?",
+        "input": "",
+        "output": "Cura\u00e7ao"
+    },
+    {
+        "instruction": "What was the record label from The View from the Bottom?",
+        "input": "",
+        "output": "Arista Records"
+    },
+    {
+        "instruction": "Since when has Terry Jennings died?",
+        "input": "",
+        "output": "27 May 2003"
+    },
+    {
+        "instruction": "- What time did Alexandre \u00c9tienne Choron die?",
+        "input": "",
+        "output": "4 April 1809"
+    },
+    {
+        "instruction": "What is the name of the state Ijdan is in?",
+        "input": "",
+        "output": "Gmina \u0141\u00f3d\u017a"
+    },
+    {
+        "instruction": "In what year was the Inderkilla National Park established?",
+        "input": "",
+        "output": "2005"
+    },
+    {
+        "instruction": "The The 2000-Year-Old Virgin was in what series?",
+        "input": "",
+        "output": "South Park"
+    },
+    {
+        "instruction": "Which country is Lusine Zakaryan's citizen?",
+        "input": "",
+        "output": "Armenia"
+    },
+    {
+        "instruction": "What's the position of Bretannio?",
+        "input": "",
+        "output": "President of Malta"
+    },
+    {
+        "instruction": "What position does Bretannio have?",
+        "input": "",
+        "output": "abbot"
+    },
+    {
+        "instruction": "What's the name of a university that Lucinda Bruce-Gardyne trained in?",
+        "input": "",
+        "output": "Harvard University"
+    },
+    {
+        "instruction": "The college that Lucinda Bruce-Gardyne attended, what was that?",
+        "input": "",
+        "output": "University of Wisconsin-Madison"
+    },
+    {
+        "instruction": "What's the name of the place that Gorleston Psalter can be found?",
+        "input": "",
+        "output": "Welsh Newspapers Online"
+    },
+    {
+        "instruction": "What war did William Babcock Hazen go to?",
+        "input": "",
+        "output": "World War II"
+    },
+    {
+        "instruction": "In which series is The Pine Bluff Variant a part?",
+        "input": "",
+        "output": "Seinfeld"
+    },
+    {
+        "instruction": "In which series is The Pine Bluff Variant part of this?",
+        "input": "",
+        "output": "Seinfeld"
+    },
+    {
+        "instruction": "What's the position of Phyllis Mundy?",
+        "input": "",
+        "output": "member of the Minnesota House of Representatives"
+    },
+    {
+        "instruction": "What city was Harald Braem born in?",
+        "input": "",
+        "output": "Budapest"
+    },
+    {
+        "instruction": "Who is the Mus\u00e9e Bourdelle named after?",
+        "input": "",
+        "output": "Pierre Bourdelle"
+    },
+    {
+        "instruction": "Which artist has released the album Ma Boy?",
+        "input": "",
+        "output": "Lil Wayne"
+    },
+    {
+        "instruction": "What is the record label for Rain, Hail or Shine?",
+        "input": "",
+        "output": "Epic Records"
+    },
+    {
+        "instruction": "Where did John Walter Scott died?",
+        "input": "",
+        "output": "San Diego"
+    },
+    {
+        "instruction": "What's the name of the sports team whose member is Jeff Stover?",
+        "input": "",
+        "output": "Pittsburgh Penguins"
+    },
+    {
+        "instruction": "Which production company participates in Rio 2?",
+        "input": "",
+        "output": "FremantleMedia"
+    },
+    {
+        "instruction": "What cause of death had Richard Queen?",
+        "input": "",
+        "output": "heart failure"
+    },
+    {
+        "instruction": "What kind of submarine was SM U-94 classified as?",
+        "input": "",
+        "output": "Type U 93"
+    },
+    {
+        "instruction": "What war had Joseph Berry Breck fought in?",
+        "input": "",
+        "output": "Spanish-- American War"
+    },
+    {
+        "instruction": "Which university or university is related to Gar Forman?",
+        "input": "",
+        "output": "Brown University"
+    },
+    {
+        "instruction": "For which team is Ismael Bol\u00edvar Fern\u00e1ndez?",
+        "input": "",
+        "output": "Deportivo Quito"
+    },
+    {
+        "instruction": "Which university or university is linked to Gar Forman?",
+        "input": "",
+        "output": "University of Iowa"
+    },
+    {
+        "instruction": "What conflict was the USS Brockenborough (1862) in?",
+        "input": "",
+        "output": "United States Civil War"
+    },
+    {
+        "instruction": "Is the genus Lasaeola part of the family?",
+        "input": "",
+        "output": "Crambidae"
+    },
+    {
+        "instruction": "What is the name of the constellation which W33A belongs?",
+        "input": "",
+        "output": "Cassiopeia"
+    },
+    {
+        "instruction": "Which country has Brem dismissed?",
+        "input": "",
+        "output": "Belarus"
+    },
+    {
+        "instruction": "The work of art The Forest Fire was from whom?",
+        "input": "",
+        "output": "William Etty"
+    },
+    {
+        "instruction": "What has Top Hat been nominated for?",
+        "input": "",
+        "output": "Academy Award for Best Costume Design"
+    },
+    {
+        "instruction": "For what was Top Hat nominated?",
+        "input": "",
+        "output": "Academy Award for Program of the Year"
+    },
+    {
+        "instruction": "Who was in Ente Upasana?",
+        "input": "",
+        "output": "Mohanlal"
+    },
+    {
+        "instruction": "Which college is Donald Kofi Tucker in?",
+        "input": "",
+        "output": "George Washington University"
+    },
+    {
+        "instruction": "What college did Donald Kofi Tucker attend?",
+        "input": "",
+        "output": "George Washington University"
+    },
+    {
+        "instruction": "When was the founding of NationLink Telecom?",
+        "input": "",
+        "output": "1997"
+    },
+    {
+        "instruction": "What time was Elk's Head of Huittinen found?",
+        "input": "",
+        "output": "1864"
+    },
+    {
+        "instruction": "When was Elk's Head of Huittinen discovered?",
+        "input": "",
+        "output": "1864"
+    },
+    {
+        "instruction": "When did the discovery or creation of Elk's Head of Huittinen occur?",
+        "input": "",
+        "output": "1864"
+    },
+    {
+        "instruction": "When was Elk's Head of Huittinen discovered or created?",
+        "input": "",
+        "output": "1864"
+    },
+    {
+        "instruction": "Which label was the label for New Faces, New Sounds?",
+        "input": "",
+        "output": "Motown"
+    },
+    {
+        "instruction": "What's the basis for The Little Fox?",
+        "input": "",
+        "output": "The Little Foxes"
+    },
+    {
+        "instruction": "When was Elk's Head of Huittinen found or made?",
+        "input": "",
+        "output": "1758"
+    },
+    {
+        "instruction": "Which language is IRIB Amoozesh written?",
+        "input": "",
+        "output": "Enga"
+    },
+    {
+        "instruction": "The look of Olivia Johnson is seen in what work?",
+        "input": "",
+        "output": "Oz"
+    },
+    {
+        "instruction": "In what fictional work do you find a character named Olivia Johnson?",
+        "input": "",
+        "output": "Oz"
+    },
+    {
+        "instruction": "Which language is written by IRIB Amoozesh?",
+        "input": "",
+        "output": "Enga"
+    },
+    {
+        "instruction": "What language has IRIB Amoozesh?",
+        "input": "",
+        "output": "Enga"
+    },
+    {
+        "instruction": "In which place did Paolo Monaldi die?",
+        "input": "",
+        "output": "Venice"
+    },
+    {
+        "instruction": "What is an inflow of Dep River?",
+        "input": "",
+        "output": "Bass Strait"
+    },
+    {
+        "instruction": "When did the Tremont Group start?",
+        "input": "",
+        "output": "1991"
+    },
+    {
+        "instruction": "What artist did Dazzling Girl release?",
+        "input": "",
+        "output": "Dazzling Girl"
+    },
+    {
+        "instruction": "Who was that artist for Living All Alone?",
+        "input": "",
+        "output": "Barry Manilow"
+    },
+    {
+        "instruction": "What is Oleksandr Hladkyy playing for?",
+        "input": "",
+        "output": "FC Dynamo Kyiv"
+    },
+    {
+        "instruction": "What illness made Paul Duke die?",
+        "input": "",
+        "output": "pneumonia"
+    },
+    {
+        "instruction": "What constellation is OGLE-TR-56b involved in?",
+        "input": "",
+        "output": "Scorpius"
+    },
+    {
+        "instruction": "What fictional work is Timmy Martin a character in?",
+        "input": "",
+        "output": "Glee"
+    },
+    {
+        "instruction": "Who is Sunken Silver's director?",
+        "input": "",
+        "output": "Chuck Jones"
+    },
+    {
+        "instruction": "Who are the stars in The Usual Suspects?",
+        "input": "",
+        "output": "John Malkovich"
+    },
+    {
+        "instruction": "In what war did Svend Poulsen fight himself?",
+        "input": "",
+        "output": "War of 1812"
+    },
+    {
+        "instruction": "What's the date of birth of Archie Giles?",
+        "input": "",
+        "output": "21 December 1941"
+    },
+    {
+        "instruction": "Which river crosses the Delaware Memorial Bridge?",
+        "input": "",
+        "output": "Connecticut River"
+    },
+    {
+        "instruction": "Which river does the Delaware Memorial Bridge cross?",
+        "input": "",
+        "output": "Connecticut River"
+    },
+    {
+        "instruction": "What does Delaware Memorial Bridge cross?",
+        "input": "",
+        "output": " Delaware River"
+    },
+    {
+        "instruction": "Which river does the Delaware Memorial Bridge cross?",
+        "input": "",
+        "output": "Atlantic Ocean"
+    },
+    {
+        "instruction": "How is Martin Paul's birthplace?",
+        "input": "",
+        "output": "Lancaster"
+    },
+    {
+        "instruction": "What's university where John Byers Anderson went?",
+        "input": "",
+        "output": "Cornell University"
+    },
+    {
+        "instruction": "In which state is Micielno?",
+        "input": "",
+        "output": "Gmina G\u00f3rnik"
+    },
+    {
+        "instruction": "What is the name of Derek Whitehead's team?",
+        "input": "",
+        "output": "Cleveland Cavaliers"
+    },
+    {
+        "instruction": "Who's the director of the Finders Keepers, Lovers Weepers!?",
+        "input": "",
+        "output": "Walter Moers"
+    },
+    {
+        "instruction": "What was the name of the Derek Whiteheads team?",
+        "input": "",
+        "output": "London Broncos"
+    },
+    {
+        "instruction": "Who has the film Finders Keepers, Lovers Weepers!?",
+        "input": "",
+        "output": "Joseph Barbera"
+    },
+    {
+        "instruction": "What year did C14 Timberwolf take up service?",
+        "input": "",
+        "output": "2011"
+    },
+    {
+        "instruction": "What's the name of the director of Finders Keepers, Lovers Weepers!?",
+        "input": "",
+        "output": "Bernard Waber"
+    },
+    {
+        "instruction": "How was the year C14 Timberwolf came into service?",
+        "input": "",
+        "output": "2012"
+    },
+    {
+        "instruction": "In which year was the service entry date for C14 Timberwolf?",
+        "input": "",
+        "output": "2011"
+    },
+    {
+        "instruction": "Who was the Director of the Finders Keepers, Lovers Weepers!?",
+        "input": "",
+        "output": "Henry King"
+    },
+    {
+        "instruction": "What was the year when C14 Timberwolf came into service?",
+        "input": "",
+        "output": "1994"
+    },
+    {
+        "instruction": "Who's the director of Tabbaliyu Neenade Magane?",
+        "input": "",
+        "output": "P Padmarajan"
+    },
+    {
+        "instruction": "In what year was C14 Timberwolf put into service?",
+        "input": "",
+        "output": "2014"
+    },
+    {
+        "instruction": "What year was C14 Timberwolf done?",
+        "input": "",
+        "output": "2001"
+    },
+    {
+        "instruction": "Which year was C14 Timberwolf made?",
+        "input": "",
+        "output": "1994"
+    },
+    {
+        "instruction": "What was the record label from Into the Glorious?",
+        "input": "",
+        "output": "Columbia Records"
+    },
+    {
+        "instruction": "On what continent was Kolobar Nunatak found?",
+        "input": "",
+        "output": "Africa"
+    },
+    {
+        "instruction": "When did Romanos I Lekapenos be born?",
+        "input": "",
+        "output": "27 February 1879"
+    },
+    {
+        "instruction": "Who are the cast members of the Do Aankhen Barah Haath?",
+        "input": "",
+        "output": "Shabana Azmi"
+    },
+    {
+        "instruction": "In what fictitious universe is Moses Magnum a figure?",
+        "input": "",
+        "output": "Noon Universe"
+    },
+    {
+        "instruction": "Which fictitious universe is Moses Magnum?",
+        "input": "",
+        "output": " Magnum universe"
+    },
+    {
+        "instruction": "When did Michael Gabellini be born?",
+        "input": "",
+        "output": "21 July 1987"
+    },
+    {
+        "instruction": "How was Licia Albanese's range?",
+        "input": "",
+        "output": "mezzo soprano"
+    },
+    {
+        "instruction": "What kind of family belongs to Sporopodium?",
+        "input": "",
+        "output": "Eulophidae"
+    },
+    {
+        "instruction": "What is the constellation to which Horsehead Nebula belongs?",
+        "input": "",
+        "output": "Aquarius"
+    },
+    {
+        "instruction": "For what species is HLA-DQ5 specific?",
+        "input": "",
+        "output": " species"
+    },
+    {
+        "instruction": "What's the university that Eddie Long went to?",
+        "input": "",
+        "output": "Ohio State University"
+    },
+    {
+        "instruction": "What airport is Air Exel part of?",
+        "input": "",
+        "output": "Las Am\u00e9ricas Airport"
+    },
+    {
+        "instruction": "The disease Donna Reed died of was what?",
+        "input": "",
+        "output": "heart failure"
+    },
+    {
+        "instruction": "From which airport does Air Exel operate?",
+        "input": "",
+        "output": "Juanda International Airport"
+    },
+    {
+        "instruction": "What hub does Air Exel work from?",
+        "input": "",
+        "output": "Juanda International Airport"
+    },
+    {
+        "instruction": "Who are the cast members of the Cherry Tree Lane?",
+        "input": "",
+        "output": "Linda Darnell"
+    },
+    {
+        "instruction": "What sports team was Piotr Celeban member of?",
+        "input": "",
+        "output": "Kecskem\u00e9ti TE"
+    },
+    {
+        "instruction": "Which river is Charity Creek to?",
+        "input": "",
+        "output": " Charity River"
+    },
+    {
+        "instruction": "Which performer will release Forever Is Over as an album?",
+        "input": "",
+        "output": "The Who"
+    },
+    {
+        "instruction": "Who was Francis Folger Franklin's male parent?",
+        "input": "",
+        "output": "Francis Franklin"
+    },
+    {
+        "instruction": "What place did Alois Reiser die at?",
+        "input": "",
+        "output": "Munich"
+    },
+    {
+        "instruction": "Who directed and edited Toy Story?",
+        "input": "",
+        "output": "Burt Reynolds"
+    },
+    {
+        "instruction": "The film Toy Story is by whom?",
+        "input": "",
+        "output": "Burt Reynolds"
+    },
+    {
+        "instruction": "What was Exister's record label?",
+        "input": "",
+        "output": "Epic Records"
+    },
+    {
+        "instruction": "What was Exister's record label like?",
+        "input": "",
+        "output": "Columbia Records"
+    },
+    {
+        "instruction": "Toy Story is with whom?",
+        "input": "",
+        "output": "Burt Lancaster"
+    },
+    {
+        "instruction": "Who did the film Toy Story?",
+        "input": "",
+        "output": "Burt Reynolds"
+    },
+    {
+        "instruction": "How was the director's name, Toy Story?",
+        "input": "",
+        "output": "Burt Lancaster"
+    },
+    {
+        "instruction": "The film Toy Story comes from whom?",
+        "input": "",
+        "output": "Burt Reynolds"
+    },
+    {
+        "instruction": "Which one was the production company for Reform School Girl?",
+        "input": "",
+        "output": "American International Pictures"
+    },
+    {
+        "instruction": "On what day did Chico Anysio die?",
+        "input": "",
+        "output": "1917"
+    },
+    {
+        "instruction": "What series do 97 Seconds belong to?",
+        "input": "",
+        "output": "Lost"
+    },
+    {
+        "instruction": "Date of birth for Mark Elrick is what?",
+        "input": "",
+        "output": "1961"
+    },
+    {
+        "instruction": "What was the date of the death for Fran\u00e7ois Feuardent?",
+        "input": "",
+        "output": "18 September 1809"
+    },
+    {
+        "instruction": "Who is the architect of A. P. Johnson House?",
+        "input": "",
+        "output": "Franklin and Johnson"
+    },
+    {
+        "instruction": "How'd Harlo Jones die?",
+        "input": "",
+        "output": "pneumonia"
+    },
+    {
+        "instruction": "Which position did Jean-Fran\u00e7ois de la Tr\u00e9moille hold?",
+        "input": "",
+        "output": "President of France"
+    },
+    {
+        "instruction": "Where did Dorothea Maria Graff live while he died?",
+        "input": "",
+        "output": "Munich"
+    },
+    {
+        "instruction": "When was the birth of the Yaakov Yitzchok Ruderman?",
+        "input": "",
+        "output": "1957"
+    },
+    {
+        "instruction": "What type of boat is USS Baltimore (SSN-704)?",
+        "input": "",
+        "output": "Balao-class submarine"
+    },
+    {
+        "instruction": "What type of submarine was the USS Baltimore (SSN-704) classed as?",
+        "input": "",
+        "output": "Virginia-class submarine"
+    },
+    {
+        "instruction": "What type of submarine was USS Baltimore (SSN-704) classified as?",
+        "input": "",
+        "output": "Balao-class submarine"
+    },
+    {
+        "instruction": "What type of submarine was USS Parrott (DD-218) rated?",
+        "input": "",
+        "output": "Gearing-class destroyer"
+    },
+    {
+        "instruction": "Which ship type is USS Parrott (DD-218)?",
+        "input": "",
+        "output": "Gearing-class destroyer"
+    },
+    {
+        "instruction": "What kind of seaship was USS Parrott (DD-218)?",
+        "input": "",
+        "output": "Gearing-class destroyer"
+    },
+    {
+        "instruction": "What was Cho Sung-mo's career like?",
+        "input": "",
+        "output": "actor"
+    },
+    {
+        "instruction": "Who was Chessmaster named after?",
+        "input": "",
+        "output": "Ralph Chess"
+    },
+    {
+        "instruction": "When was the start date of Vostok 2?",
+        "input": "",
+        "output": "1 December 1965"
+    },
+    {
+        "instruction": "Who was in the comedy film Little Big Top?",
+        "input": "",
+        "output": "James Caan"
+    },
+    {
+        "instruction": "What's the date Pan Am Flight 292 happened?",
+        "input": "",
+        "output": "4 August 2001"
+    },
+    {
+        "instruction": "What date was Pan Am Flight 292?",
+        "input": "",
+        "output": "4 July 1966"
+    },
+    {
+        "instruction": "Which year was it when Bavaria-Landshut was dissolved?",
+        "input": "",
+        "output": "1915"
+    },
+    {
+        "instruction": "Which year has Bavaria-Landshut dissolved?",
+        "input": "",
+        "output": "1548"
+    },
+    {
+        "instruction": "When were the Welsh Proms launched?",
+        "input": "",
+        "output": "1999"
+    },
+    {
+        "instruction": "In which country was Gra\u017cyna Miller?",
+        "input": "",
+        "output": "Czechoslovakia"
+    },
+    {
+        "instruction": "When's Angus Suttie born?",
+        "input": "",
+        "output": "19 March 1989"
+    },
+    {
+        "instruction": "What is the vocal programme for Evelyn Parnell?",
+        "input": "",
+        "output": "mezzo-oprano"
+    },
+    {
+        "instruction": "What is the vocal band width for Evelyn Parnell?",
+        "input": "",
+        "output": "mezzo soprano"
+    },
+    {
+        "instruction": "What killed Gerald Ganglbauer?",
+        "input": "",
+        "output": "bone cancer"
+    },
+    {
+        "instruction": "What illness caused Gerald Ganglbauer's death?",
+        "input": "",
+        "output": "tuberculosis"
+    },
+    {
+        "instruction": "What was Gerald Ganglbauer's illness like at the end of his life?",
+        "input": "",
+        "output": "Parkinson's disease"
+    },
+    {
+        "instruction": "What production company is When China Met Africa associated with?",
+        "input": "",
+        "output": "Famous Players Television"
+    },
+    {
+        "instruction": "What health condition did Gerald Ganglbauer suffer?",
+        "input": "",
+        "output": "cancer"
+    },
+    {
+        "instruction": "What is the name of the state in which Mettur is located?",
+        "input": "",
+        "output": "Punjab"
+    },
+    {
+        "instruction": "What's the name of the sport team Omar Bravo is?",
+        "input": "",
+        "output": "Real Zaragoza"
+    },
+    {
+        "instruction": "Which position did Brian Reynold Bishop hold?",
+        "input": "",
+        "output": "Governor of Guam"
+    },
+    {
+        "instruction": "What illness caused Gerald Ganglbauer's death?",
+        "input": "",
+        "output": "tuberculosis"
+    },
+    {
+        "instruction": "What condition did Gerald Ganglbauer suffer from?",
+        "input": "",
+        "output": "Alzheimer"
+    },
+    {
+        "instruction": "Which football league is Southern California Fusion part of this?",
+        "input": "",
+        "output": "USL First Division"
+    },
+    {
+        "instruction": "What disease did Gerald Ganglbauer contract?",
+        "input": "",
+        "output": "Parkinson's disease"
+    },
+    {
+        "instruction": "What illness has had a negative effect on Gerald Ganglbauer?",
+        "input": "",
+        "output": "tuberculosis"
+    },
+    {
+        "instruction": "What medical condition does Gerald Ganglbauer have?",
+        "input": "",
+        "output": "Parkinson's disease"
+    },
+    {
+        "instruction": "In what health condition did Gerald Ganglbauer suffer?",
+        "input": "",
+        "output": "1918 flu pandemic"
+    },
+    {
+        "instruction": "What was Gerald Ganglbauer's condition?",
+        "input": "",
+        "output": "tuberculosis"
+    },
+    {
+        "instruction": "What kind of disease did Gerald Ganglbauer have?",
+        "input": "",
+        "output": "pneumonia"
+    },
+    {
+        "instruction": "What illness was a factor in the death of Gerald Ganglbauer?",
+        "input": "",
+        "output": "tuberculosis"
+    },
+    {
+        "instruction": "For which league did Southern California Fusion play in the highest league?",
+        "input": "",
+        "output": "National Premier Soccer League"
+    },
+    {
+        "instruction": "On which day did the Mongenast Ministry end?",
+        "input": "",
+        "output": "1941"
+    },
+    {
+        "instruction": "What kind of job does Derone Davis have?",
+        "input": "",
+        "output": "rugby league player"
+    },
+    {
+        "instruction": "What league did Southern California Fusion play in the highest league?",
+        "input": "",
+        "output": "USL First Division"
+    },
+    {
+        "instruction": "Who is Chancery Lane named after?",
+        "input": "",
+        "output": "Charles Chancery, 1st Earl of Lancaster"
+    },
+    {
+        "instruction": "Which State is located in Midwest Museum of Natural History?",
+        "input": "",
+        "output": "Michigan"
+    },
+    {
+        "instruction": "Which noble family belonged to Xiao Jia?",
+        "input": "",
+        "output": "Southern Ming Dynasty"
+    },
+    {
+        "instruction": "What noble family belonged to Xiao Jia?",
+        "input": "",
+        "output": "Southern Ming Dynasty"
+    },
+    {
+        "instruction": "What family lineage was Xiao Jia part of?",
+        "input": "",
+        "output": "Southern Ming dynasty"
+    },
+    {
+        "instruction": "The Canary Murder Case has a character?",
+        "input": "",
+        "output": "Futurama"
+    },
+    {
+        "instruction": "The astronomical body Solander Point is on is what?",
+        "input": "",
+        "output": "Mars"
+    },
+    {
+        "instruction": "What state is in Roblin Park?",
+        "input": "",
+        "output": "New South Wales"
+    },
+    {
+        "instruction": "What company does ASM-135 ASAT do?",
+        "input": "",
+        "output": "Aeroflot"
+    },
+    {
+        "instruction": "In which town Dulcina de Moraes died.",
+        "input": "",
+        "output": "S\u00e3o Paulo"
+    },
+    {
+        "instruction": "Which city did Dulcina de Moraes live when he died?",
+        "input": "",
+        "output": "Barcelona"
+    },
+    {
+        "instruction": "With which industry is Fairfield Shipbuilding and Engineering Company associated?",
+        "input": "",
+        "output": "structural engineering"
+    },
+    {
+        "instruction": "What is the record label for Refresh the Demon?",
+        "input": "",
+        "output": "Virgin Records"
+    },
+    {
+        "instruction": "What is the name of the city in which Emmanuel Wamala was born?",
+        "input": "",
+        "output": "Tunis"
+    },
+    {
+        "instruction": "What is Terry Giddy's state of health?",
+        "input": "",
+        "output": "Parkinson's disease"
+    },
+    {
+        "instruction": "What disease caused Terry Giddy to die?",
+        "input": "",
+        "output": "iddy-chair cancer"
+    },
+    {
+        "instruction": "What kind of illness did Terry Giddy finish?",
+        "input": "",
+        "output": "Parkinson's disease"
+    },
+    {
+        "instruction": "What illness did Terry Giddy fight with?",
+        "input": "",
+        "output": "Parkinson's disease"
+    },
+    {
+        "instruction": "What illness has caused the death of Mavis Villiers?",
+        "input": "",
+        "output": "ovarian disease"
+    },
+    {
+        "instruction": "Which company has Personal Urban Mobility and Accessibility built up?",
+        "input": "",
+        "output": "BMJ"
+    },
+    {
+        "instruction": "Which company has Personal Urban Mobility and Accessibility produced?",
+        "input": "",
+        "output": "Navistar International"
+    },
+    {
+        "instruction": "What disease did Mavis Villiers lead to death?",
+        "input": "",
+        "output": "breast cancer"
+    },
+    {
+        "instruction": "In what language does Pleine Vie report a monthly football magazine?",
+        "input": "",
+        "output": " Vie"
+    },
+    {
+        "instruction": "What's Pleine Vie's language?",
+        "input": "",
+        "output": "Coptic"
+    },
+    {
+        "instruction": "Which team is Larry Whisenton playing?",
+        "input": "",
+        "output": "New York Giants"
+    },
+    {
+        "instruction": "Which industry are Bad Robot Productions connected with?",
+        "input": "",
+        "output": "film"
+    },
+    {
+        "instruction": "What network does 8 Minutes air on?",
+        "input": "",
+        "output": "Channel 5"
+    },
+    {
+        "instruction": "What continent are Rabisha Rocks on?",
+        "input": "",
+        "output": "Africa"
+    },
+    {
+        "instruction": "What place is Sket at?",
+        "input": "",
+        "output": "Turkey"
+    },
+    {
+        "instruction": "What place does Sket exist in?",
+        "input": "",
+        "output": "New Jersey"
+    },
+    {
+        "instruction": "How's the position of Sylvester Patton?",
+        "input": "",
+        "output": "member of the Pennsylvania House of Representatives"
+    },
+    {
+        "instruction": "What year was the Kh-58 service entrance?",
+        "input": "",
+        "output": "1980"
+    },
+    {
+        "instruction": "What is the name of university that educated Nicholas Brooks?",
+        "input": "",
+        "output": "Princeton University"
+    },
+    {
+        "instruction": "What's the name of the university that Nicholas Brooks trained?",
+        "input": "",
+        "output": "Princeton University"
+    },
+    {
+        "instruction": "Which year was Kh-58 taken into use?",
+        "input": "",
+        "output": "1977"
+    },
+    {
+        "instruction": "Where's Alexandru Proca?",
+        "input": "",
+        "output": "Tiraspol"
+    },
+    {
+        "instruction": "What was the official year for the approval of Kh-58?",
+        "input": "",
+        "output": "1993"
+    },
+    {
+        "instruction": "What was the official year of Kh-58 approval?",
+        "input": "",
+        "output": "1991"
+    },
+    {
+        "instruction": "What university or university is related to Jessica Suchy-Pilalis?",
+        "input": "",
+        "output": "University of Wisconsin-Madison"
+    },
+    {
+        "instruction": "Who was in the comedy movie Happy Go Lovely?",
+        "input": "",
+        "output": "Gloria Swanson"
+    },
+    {
+        "instruction": "Who are the stars of film I Was a Male War Bride?",
+        "input": "",
+        "output": "Lon Chaney"
+    },
+    {
+        "instruction": "What is Ahmose-Henuttamehu's father's name?",
+        "input": "",
+        "output": "Ahmose Nefertari"
+    },
+    {
+        "instruction": "How's Ahmose-Henuttamehu's father?",
+        "input": "",
+        "output": "Ahmose Nefertari"
+    },
+    {
+        "instruction": "What's Ahmose-Henuttamehu's father like?",
+        "input": "",
+        "output": "Ahmose-nirari"
+    },
+    {
+        "instruction": "What industry is Frieze and Roy associated with?",
+        "input": "",
+        "output": "fishing"
+    },
+    {
+        "instruction": "What position in the field did Sione Uhatahi play football on?",
+        "input": "",
+        "output": "defender"
+    },
+    {
+        "instruction": "Which company does Remington Model 51 make?",
+        "input": "",
+        "output": "John Browning"
+    },
+    {
+        "instruction": "In what year has Emptoris formed?",
+        "input": "",
+        "output": "1961"
+    },
+    {
+        "instruction": "What is the constellation to which HD 173417 belongs?",
+        "input": "",
+        "output": "Pavo"
+    },
+    {
+        "instruction": "The mother of Roshan Kumari is who?",
+        "input": "",
+        "output": "Ratna Pathak"
+    },
+    {
+        "instruction": "Which label was in charge of United Abominations?",
+        "input": "",
+        "output": "Arista Records"
+    },
+    {
+        "instruction": "Which was the position that Mason Spencer held?",
+        "input": "",
+        "output": "member of the Louisiana House of Representatives"
+    },
+    {
+        "instruction": "What position did Mason Spencer occupy?",
+        "input": "",
+        "output": "member of the Pennsylvania House of Representatives"
+    },
+    {
+        "instruction": "What team is Lionel Gautherie connected to?",
+        "input": "",
+        "output": "Ottawa Rough Riders"
+    },
+    {
+        "instruction": "Who was Dawkins Revolution named after?",
+        "input": "",
+        "output": "Richard Richard Dawkins"
+    },
+    {
+        "instruction": "Who traded Mangalam Veettil Manaseswari Gupta?",
+        "input": "",
+        "output": "Vishnuvardhan"
+    },
+    {
+        "instruction": "Who was in Mangalam Veettil Manaseswari Gupta?",
+        "input": "",
+        "output": "Mukesh"
+    },
+    {
+        "instruction": "What is the name of the Rog\u00e9rio de Almeida Florindo dos Santos's team?",
+        "input": "",
+        "output": "SC Braga B"
+    },
+    {
+        "instruction": "Which label is responsible for King of Conflict?",
+        "input": "",
+        "output": "Capitol Records"
+    },
+    {
+        "instruction": "What's the name of the state in which the Schuylkill Fishing Company is based?",
+        "input": "",
+        "output": "New Jersey"
+    },
+    {
+        "instruction": "Who was the Director of the L'\u00c9toile de mer?",
+        "input": "",
+        "output": "Jean-Pierre Mocky"
+    },
+    {
+        "instruction": "What company published Crackpots?",
+        "input": "",
+        "output": "BBC Books"
+    },
+    {
+        "instruction": "What was the year that Disney Junior was founded?",
+        "input": "",
+        "output": "2004"
+    },
+    {
+        "instruction": "What is Micha\u00ebl Pereira's player position?",
+        "input": "",
+        "output": "goalkeeper"
+    },
+    {
+        "instruction": "What material was used in the L\u00fcbeck Cathedral?",
+        "input": "",
+        "output": "sandpaper"
+    },
+    {
+        "instruction": "Which state is Morzyczyn W\u0142o\u015bcia\u0144ski in?",
+        "input": "",
+        "output": "Gmina Morzyczyn"
+    },
+    {
+        "instruction": "What football league is HK Orange 20 part of?",
+        "input": "",
+        "output": "Orange County Premier League"
+    },
+    {
+        "instruction": "The movie To All a Goodnight was directed by whom?",
+        "input": "",
+        "output": "Mervyn Johns"
+    },
+    {
+        "instruction": "What's Stefan Liv's team called?",
+        "input": "",
+        "output": "FC Vaduz"
+    },
+    {
+        "instruction": "To which company is Novatek?",
+        "input": "",
+        "output": "Omnicom Group"
+    },
+    {
+        "instruction": "Which city did M\u00fckerrem Hi\u00e7 live when he died?",
+        "input": "",
+        "output": "Munich"
+    },
+    {
+        "instruction": "The The Silver Brumby was made by whom?",
+        "input": "",
+        "output": "William Etty"
+    },
+    {
+        "instruction": "Who has been designed by Borchardt C-93?",
+        "input": "",
+        "output": "Borchardt Firearms"
+    },
+    {
+        "instruction": "When did Old Quebec Street Mall open?",
+        "input": "",
+        "output": "2002"
+    },
+    {
+        "instruction": "Which year ended the Slovak Democratic Coalition?",
+        "input": "",
+        "output": "2010"
+    },
+    {
+        "instruction": "In which city did Abel Seyler die?",
+        "input": "",
+        "output": "Tirana"
+    },
+    {
+        "instruction": "When has the Slovak Democratic Coalition been abolished?",
+        "input": "",
+        "output": "2012"
+    },
+    {
+        "instruction": "Which company did Simple Souls do?",
+        "input": "",
+        "output": "Sony Pictures Classics"
+    },
+    {
+        "instruction": "What company released Simple Souls?",
+        "input": "",
+        "output": "TSR"
+    },
+    {
+        "instruction": "In which state is Zar\u0119by-Bindugi located?",
+        "input": "",
+        "output": "Gmina Strzelce"
+    },
+    {
+        "instruction": "What's the year of the start of Glass Candy?",
+        "input": "",
+        "output": "2006"
+    },
+    {
+        "instruction": "What is Margary Affairs named after?",
+        "input": "",
+        "output": "Margary of Brieg"
+    },
+    {
+        "instruction": "Who's Margary Affair named for?",
+        "input": "",
+        "output": "Margary Matisse"
+    },
+    {
+        "instruction": "Who named Margary Affair for?",
+        "input": "",
+        "output": "Margary of Sicily"
+    },
+    {
+        "instruction": "Who are the stars in the movie Kill Me Again?",
+        "input": "",
+        "output": "John Malkovich"
+    },
+    {
+        "instruction": "In which year was Saltora Netaji Centenary College established?",
+        "input": "",
+        "output": "2009"
+    },
+    {
+        "instruction": "Who's the sister of Maria Elizabetha Jacson?",
+        "input": "",
+        "output": "Maria Theresa Jacson"
+    },
+    {
+        "instruction": "Who was Maria Elizabetha Jacson's sister?",
+        "input": "",
+        "output": "Maria Christina of Austria"
+    },
+    {
+        "instruction": "What college was Tatiana Vladislavovna Petrova in?",
+        "input": "",
+        "output": "Moscow State Institute of International Relations"
+    },
+    {
+        "instruction": "Which year was the end of Partit per la Independ\u00e8ncia?",
+        "input": "",
+        "output": "1923"
+    },
+    {
+        "instruction": "What was The Correct Use of Soap's record label?",
+        "input": "",
+        "output": "Arista Nashville"
+    },
+    {
+        "instruction": "What year is Bedford Vehicles?",
+        "input": "",
+        "output": "1991"
+    },
+    {
+        "instruction": "In what year did Portuguese Malacca end?",
+        "input": "",
+        "output": "1818"
+    },
+    {
+        "instruction": "What year has the Portuguese Malacca finished?",
+        "input": "",
+        "output": "acca"
+    },
+    {
+        "instruction": "Was Shakira male or feminine?",
+        "input": "",
+        "output": "female', \"female"
+    },
+    {
+        "instruction": "Player Brad Brown for what team?",
+        "input": "",
+        "output": "Vancouver Canucks"
+    },
+    {
+        "instruction": "For which team did Brad Brown play?",
+        "input": "",
+        "output": "Buffalo Sabres"
+    },
+    {
+        "instruction": "Players Brad Brown for what team?",
+        "input": "",
+        "output": "Buffalo Sabres"
+    },
+    {
+        "instruction": "What was Florence Easton's voice?",
+        "input": "",
+        "output": "mezzo-oprano"
+    },
+    {
+        "instruction": "In which fictional work do San Theodoros exist?",
+        "input": "",
+        "output": "The Adventures of Sherlock Holmes"
+    },
+    {
+        "instruction": "The Chlothar II's father was who?",
+        "input": "",
+        "output": "Frederick II"
+    },
+    {
+        "instruction": "From which country is Jean-Marie D\u00e9guignet a national?",
+        "input": "",
+        "output": "French Guiana"
+    },
+    {
+        "instruction": "Which one was the record label of Black as Death?",
+        "input": "",
+        "output": "Atlantic Records"
+    },
+    {
+        "instruction": "What is the gender Mizue Takada?",
+        "input": "",
+        "output": "male"
+    },
+    {
+        "instruction": "What's the name of the state in which Ant\u00f4nio Cardoso is located?",
+        "input": "",
+        "output": "Rio Grande do Sul"
+    },
+    {
+        "instruction": "What network has North Tonight broadcast?",
+        "input": "",
+        "output": "A&E"
+    },
+    {
+        "instruction": "Which college did Katsuhiko Oku go to?",
+        "input": "",
+        "output": "University of Michigan"
+    },
+    {
+        "instruction": "What country has the citizenship of Rapha\u00ebl Haroche?",
+        "input": "",
+        "output": "Belgium"
+    },
+    {
+        "instruction": "When did the Grouville Hoard find it?",
+        "input": "",
+        "output": "1751"
+    },
+    {
+        "instruction": "When was Grouville Hoard discovered?",
+        "input": "",
+        "output": "18rouville series"
+    },
+    {
+        "instruction": "Which is the full date of the discovery for Grouville Hoard?",
+        "input": "",
+        "output": "16rouville series"
+    },
+    {
+        "instruction": "Which year was the Sunnyside Hospital dissolved?",
+        "input": "",
+        "output": "1956"
+    },
+    {
+        "instruction": "What year did Sunnyside Hospital cease to exist?",
+        "input": "",
+        "output": "1962"
+    },
+    {
+        "instruction": "The year that Grouville Hoard was discovered when?",
+        "input": "",
+        "output": "1751"
+    },
+    {
+        "instruction": "What's the year Grouville Hoard was discovered?",
+        "input": "",
+        "output": "1751"
+    },
+    {
+        "instruction": "What is the end of Sunnyside Hospital?",
+        "input": "",
+        "output": "1956"
+    },
+    {
+        "instruction": "What year is Sunnyside Hospital gone?",
+        "input": "",
+        "output": "1960"
+    },
+    {
+        "instruction": "What is the name of Cicero's spouse?",
+        "input": "",
+        "output": "Dante Alighieri"
+    },
+    {
+        "instruction": "Which is the full date of discovery for Grouville Hoard?",
+        "input": "",
+        "output": "18rouville-Louis David"
+    },
+    {
+        "instruction": "Which family belongs to Todarodinae?",
+        "input": "",
+        "output": "Todaridae"
+    },
+    {
+        "instruction": "By what date did John Southgate Allen die?",
+        "input": "",
+        "output": "1934"
+    },
+    {
+        "instruction": "The voice type of Julia Hamari is what?",
+        "input": "",
+        "output": "mezzo soprano"
+    },
+    {
+        "instruction": "The type of voice of Jos\u00e9 Luccioni is what?",
+        "input": "",
+        "output": "soprano"
+    },
+    {
+        "instruction": "Who released the album Not My Soul?",
+        "input": "",
+        "output": "REM"
+    },
+    {
+        "instruction": "In which fictional work is Steven Hyde a figure?",
+        "input": "",
+        "output": "Emmerdale"
+    },
+    {
+        "instruction": "Who has designed the Holmenkollen Chapel?",
+        "input": "",
+        "output": "Norwegian Institute of Technology"
+    },
+    {
+        "instruction": "Who was the architect designing Holmenkollen Chapel?",
+        "input": "",
+        "output": "Inigo Jones"
+    },
+    {
+        "instruction": "Who created the Holmenkollen Chapel?",
+        "input": "",
+        "output": "Norwegian Institute of Technology"
+    },
+    {
+        "instruction": "Which designer is responsible for Holmenkollen Chapel?",
+        "input": "",
+        "output": "Inigo Jones"
+    },
+    {
+        "instruction": "What position has Robert J. McGeehan taken?",
+        "input": "",
+        "output": "member of the Pennsylvania House of Representatives"
+    },
+    {
+        "instruction": "What family is Whitfieldia with?",
+        "input": "",
+        "output": "Cerambycidae"
+    },
+    {
+        "instruction": "In what war/fight was Ioannis Kolettis fighting?",
+        "input": "",
+        "output": "Greco-Italian War"
+    },
+    {
+        "instruction": "When's the birth date of Sharran Alexander?",
+        "input": "",
+        "output": "1956"
+    },
+    {
+        "instruction": "How is the position of George Cary (1611-1680)?",
+        "input": "",
+        "output": "Archbishop of York"
+    },
+    {
+        "instruction": "In which city is Farhad Piroutpour born?",
+        "input": "",
+        "output": "Tiraspol"
+    },
+    {
+        "instruction": "What is the position of George Cary (1611-1680)?",
+        "input": "",
+        "output": "bishop"
+    },
+    {
+        "instruction": "Which label is responsible for Silence Is Easy?",
+        "input": "",
+        "output": "Elektra Records"
+    },
+    {
+        "instruction": "What is the death date for Joan Standing?",
+        "input": "",
+        "output": "16 May 2008"
+    },
+    {
+        "instruction": "What is the name of the editor of the Annual Review of Astronomy and Astrophysics?",
+        "input": "",
+        "output": "Annual Review of Astronomy and Astrophysics"
+    },
+    {
+        "instruction": "Which state is Sobies\u0119ki Pierwsze in?",
+        "input": "",
+        "output": "Gmina G\u00f3ra Wielkie"
+    },
+    {
+        "instruction": "What tone does Louise Grandjean sing in?",
+        "input": "",
+        "output": "mezzo soprano"
+    },
+    {
+        "instruction": "Kink FM's country of origin is what?",
+        "input": "",
+        "output": "South Africa"
+    },
+    {
+        "instruction": "What year has Flairck started?",
+        "input": "",
+        "output": "12 March 1891"
+    },
+    {
+        "instruction": "Who was Anbe Vaa directed?",
+        "input": "",
+        "output": "V Ravichandran"
+    },
+    {
+        "instruction": "What city lived Josefina Lavalle when he died?",
+        "input": "",
+        "output": "San Francisco"
+    },
+    {
+        "instruction": "Who worked at the Zany Golf?",
+        "input": "",
+        "output": "Adam Zany"
+    },
+    {
+        "instruction": "Who worked for Zany Golf?",
+        "input": "",
+        "output": "Gestapo"
+    },
+    {
+        "instruction": "Which one is the manufacturer of Sopwith Pup?",
+        "input": "",
+        "output": "The Sopwith Company"
+    },
+    {
+        "instruction": "Which producer of Sopwith Pup?",
+        "input": "",
+        "output": "The Sopwith Family"
+    },
+    {
+        "instruction": "Who designed the Mark 19 torpedo?",
+        "input": "",
+        "output": "United States Marine Corps"
+    },
+    {
+        "instruction": "Which one is the designer of Mark 19 torpedo?",
+        "input": "",
+        "output": "Washington Navy Yard"
+    },
+    {
+        "instruction": "Who is the designer of the Mark 19 torpedo?",
+        "input": "",
+        "output": "United States Marine Corps"
+    },
+    {
+        "instruction": "Who's the designer of Mark 19 torpedo?",
+        "input": "",
+        "output": "United States Marine Corps"
+    },
+    {
+        "instruction": "What is the show where Save the Last One is part of it?",
+        "input": "",
+        "output": "The Simpsons"
+    },
+    {
+        "instruction": "Who's the designer from Mark 19 torpedo?",
+        "input": "",
+        "output": "United States Navy"
+    },
+    {
+        "instruction": "What war did Hans Howaldt contribute to?",
+        "input": "",
+        "output": "Thirty Years' War"
+    },
+    {
+        "instruction": "What war was Hans Howaldt involved in?",
+        "input": "",
+        "output": "Battle of the North Cape"
+    },
+    {
+        "instruction": "In which war is Hans Howaldt fighting?",
+        "input": "",
+        "output": "Napoleonic Wars"
+    },
+    {
+        "instruction": "In what war is Henry Harnden fighting?",
+        "input": "",
+        "output": "American Revolutionary War"
+    },
+    {
+        "instruction": "Who was the family of Rhinocoryne?",
+        "input": "",
+        "output": "Noctuidae"
+    },
+    {
+        "instruction": "Who was the publisher of the Edinburgh Law Review?",
+        "input": "",
+        "output": "Edinburgh Law School"
+    },
+    {
+        "instruction": "Which lady was born B\u00e9ni Ferenczy?",
+        "input": "",
+        "output": "B\u00e9ni Merenczy"
+    },
+    {
+        "instruction": "What lady has B\u00e9ni Ferenczy given birth to?",
+        "input": "",
+        "output": "Budapest Honv\u00e9d FC"
+    },
+    {
+        "instruction": "The astronomical body at Gomul Catena is what?",
+        "input": "",
+        "output": "Mars"
+    },
+    {
+        "instruction": "On what date was the Battle of Kudal-Sangamam held?",
+        "input": "",
+        "output": "27 November 1860"
+    },
+    {
+        "instruction": "On which moon or planet can Gomul Catena be found?",
+        "input": "",
+        "output": "Mars"
+    },
+    {
+        "instruction": "The astronomical body on which Gomul Catena is, is what?",
+        "input": "",
+        "output": "Catena"
+    },
+    {
+        "instruction": "In what fictional work would you find a figure called Tristan von Lahnstein?",
+        "input": "",
+        "output": "The West Wing"
+    },
+    {
+        "instruction": "In what fictitious work does Tristan von Lahnstein appear?",
+        "input": "",
+        "output": "Inspector Morse"
+    },
+    {
+        "instruction": "What family is Lophodaxa part of?",
+        "input": "",
+        "output": "Lophodaxaceae"
+    },
+    {
+        "instruction": "What constellation is California Nebula located in?",
+        "input": "",
+        "output": "Ursa Major"
+    },
+    {
+        "instruction": "The star California Nebula is a part of what constellation?",
+        "input": "",
+        "output": "Sagittarius"
+    },
+    {
+        "instruction": "What fictitious work would you find a character named Jack Harkness in?",
+        "input": "",
+        "output": "Lost"
+    },
+    {
+        "instruction": "What fictional work does Jack Harkness exist in?",
+        "input": "",
+        "output": "Lost"
+    },
+    {
+        "instruction": "What is the endangered status of Swinhoe's storm petrel?",
+        "input": "",
+        "output": "near threatened"
+    },
+    {
+        "instruction": "What was the war Barahir fought in?",
+        "input": "",
+        "output": "Second Italo-Turkish War"
+    },
+    {
+        "instruction": "What was the war Barahir fought in?",
+        "input": "",
+        "output": "First Chechen War"
+    },
+    {
+        "instruction": "At what airport is Air Zimbabwe?",
+        "input": "",
+        "output": "Zvartnots Airport"
+    },
+    {
+        "instruction": "What is the conservation status of Swinhoe's storm petrel?",
+        "input": "",
+        "output": "least concern"
+    },
+    {
+        "instruction": "Who is Lucrezia Borgia's dad?",
+        "input": "",
+        "output": "Borgia III of Naples"
+    },
+    {
+        "instruction": "Which is the birth date of Anton Min\u00e1rik?",
+        "input": "",
+        "output": "19 March 1894"
+    },
+    {
+        "instruction": "The genus Vietteria belongs to which family?",
+        "input": "",
+        "output": "Noctuidae"
+    },
+    {
+        "instruction": "In what war/strife did John Deseronto fight?",
+        "input": "",
+        "output": "American Revolutionary War"
+    },
+    {
+        "instruction": "What is the airport name associated with Air Zimbabwe?",
+        "input": "",
+        "output": "Zvartnots International Airport"
+    },
+    {
+        "instruction": "In what war/strike did John Deseronto fight?",
+        "input": "",
+        "output": "War of 1812"
+    },
+    {
+        "instruction": "Which city is home to Tam\u00e1s Gi\u00e1k?",
+        "input": "",
+        "output": "Gyula"
+    },
+    {
+        "instruction": "What is the sex that Dena Feingold knows?",
+        "input": "",
+        "output": "male"
+    },
+    {
+        "instruction": "Where does Mildred Pierce exist?",
+        "input": "",
+        "output": "New Jersey"
+    },
+    {
+        "instruction": "What war or battle did Field Harris involve?",
+        "input": "",
+        "output": "American Revolutionary War"
+    },
+    {
+        "instruction": "What country was the country for Himmelbl\u00e5?",
+        "input": "",
+        "output": "Sweden"
+    },
+    {
+        "instruction": "In what war was Nikolaos Kriezotis fighting?",
+        "input": "",
+        "output": "Greco-Turkish War"
+    },
+    {
+        "instruction": "What's the position of Said Halim Pasha?",
+        "input": "",
+        "output": "Prime Minister of Turkey"
+    },
+    {
+        "instruction": "What war was Nikolaos Kriezotis fighting in?",
+        "input": "",
+        "output": "Greek Civil War"
+    },
+    {
+        "instruction": "What war was Nikolaos Kriezotis in?",
+        "input": "",
+        "output": "Greco-Italian War"
+    },
+    {
+        "instruction": "In which team is Alexander Edler playing?",
+        "input": "",
+        "output": "New Jersey Devils"
+    },
+    {
+        "instruction": "Is Li Jiji's death an accident or a suicide?",
+        "input": "",
+        "output": "suicide by hanging"
+    },
+    {
+        "instruction": "Which company produced Slide, Kelly, Slide?",
+        "input": "",
+        "output": "United States Geological Survey"
+    },
+    {
+        "instruction": "In one word, how did Li Jiji die?",
+        "input": "",
+        "output": "suicide by burning"
+    },
+    {
+        "instruction": "What is the state of the KKWE?",
+        "input": "",
+        "output": "Minnesota"
+    },
+    {
+        "instruction": "What woman gave birth to John Bowes, 10th Earl of Strathmore and Kinghorne?",
+        "input": "",
+        "output": "Elizabeth Bowes, 9th Earl of Strathmore and Kinghorne"
+    },
+    {
+        "instruction": "What is the team associated with Jos\u00e9 Lu\u00eds?",
+        "input": "",
+        "output": "Real Zaragoza"
+    },
+    {
+        "instruction": "Which year did the Order of the Black Eagle dissolve?",
+        "input": "",
+        "output": "1914"
+    },
+    {
+        "instruction": "What kind of family is Novaustrosimulium?",
+        "input": "",
+        "output": "Gelechiidae"
+    },
+    {
+        "instruction": "What year did the Order of the Black Eagle end?",
+        "input": "",
+        "output": "1915"
+    },
+    {
+        "instruction": "In which year was Underland Press founded?",
+        "input": "",
+        "output": "2005"
+    },
+    {
+        "instruction": "Who spotted the Alexanderson alternator?",
+        "input": "",
+        "output": "Ernest Alexanderson"
+    },
+    {
+        "instruction": "What company publishes Prey the Stars?",
+        "input": "",
+        "output": "Atari"
+    },
+    {
+        "instruction": "Who was Prey the Stars' publisher?",
+        "input": "",
+        "output": "Sega"
+    },
+    {
+        "instruction": "For what award was Odelay nominated?",
+        "input": "",
+        "output": "Academy Award for Best Picture"
+    },
+    {
+        "instruction": "Which award was Odelay nominated for?",
+        "input": "",
+        "output": "Academy Award for Best Picture"
+    },
+    {
+        "instruction": "When is the birth date of Arnaud Boiteau?",
+        "input": "",
+        "output": "19 June 1882"
+    },
+    {
+        "instruction": "In which year did the Aegean Speed Lines come from?",
+        "input": "",
+        "output": "1991"
+    },
+    {
+        "instruction": "The Mother of Alexander Aris is who?",
+        "input": "",
+        "output": "Irving Kane Aris"
+    },
+    {
+        "instruction": "Which company has AAM-A-1 Firebird built?",
+        "input": "",
+        "output": "Glenn L Martin Company"
+    },
+    {
+        "instruction": "What was the date of Drownings at Nantes?",
+        "input": "",
+        "output": "17 June 1751"
+    },
+    {
+        "instruction": "Player Abdoul Nassirou Omouroun plays for which team?",
+        "input": "",
+        "output": "Granada CF"
+    },
+    {
+        "instruction": "What date did Henry William Poor die?",
+        "input": "",
+        "output": "18 February 1882"
+    },
+    {
+        "instruction": "Where was Rose Angela Horan living when he died?",
+        "input": "",
+        "output": "Los Angeles"
+    },
+    {
+        "instruction": "In what year did JS 7.62 enter the service?",
+        "input": "",
+        "output": "1966"
+    },
+    {
+        "instruction": "What year was JS 7.62 in use?",
+        "input": "",
+        "output": "1961"
+    },
+    {
+        "instruction": "Which network did Smash Lab send?",
+        "input": "",
+        "output": "TNT"
+    },
+    {
+        "instruction": "What was the year when JS 7.62 entered service?",
+        "input": "",
+        "output": "1967"
+    },
+    {
+        "instruction": "Which year was JS 7.62 put into service?",
+        "input": "",
+        "output": "1966"
+    },
+    {
+        "instruction": "In which year did JS 7.62 enter the service?",
+        "input": "",
+        "output": "1963"
+    },
+    {
+        "instruction": "What year was JS 7.62 established?",
+        "input": "",
+        "output": "1963"
+    },
+    {
+        "instruction": "Which ship type is USS Thomas S. Gates?",
+        "input": "",
+        "output": "Wickes-class destroyer"
+    },
+    {
+        "instruction": "What kind of ship is USS Thomas S. Gates?",
+        "input": "",
+        "output": "Fletcher-class destroyer"
+    },
+    {
+        "instruction": "Who is the name of the Bethune Memorial House?",
+        "input": "",
+        "output": "Mary Bethune"
+    },
+    {
+        "instruction": "What year did JS 7.62 come into use?",
+        "input": "",
+        "output": "1963"
+    },
+    {
+        "instruction": "Who is a cast member in Veppam?",
+        "input": "",
+        "output": "Mammootty"
+    },
+    {
+        "instruction": "Who are Veppam cast members?",
+        "input": "",
+        "output": "Mohanlal"
+    },
+    {
+        "instruction": "The birth date of Herv\u00e9 Itoua is?",
+        "input": "",
+        "output": "1 January 1986"
+    },
+    {
+        "instruction": "What is the constellation in which NGC 4293 belongs?",
+        "input": "",
+        "output": "Leo Minor"
+    },
+    {
+        "instruction": "Which constellation is Zeta Lupi's?",
+        "input": "",
+        "output": "Ursa Major"
+    },
+    {
+        "instruction": "That college Samuel McKinney attended was what?",
+        "input": "",
+        "output": "Trinity College"
+    },
+    {
+        "instruction": "What is Christoph von Stadion's birth date?",
+        "input": "",
+        "output": "12 April 1809"
+    },
+    {
+        "instruction": "What kind of disease killed Ramesses V?",
+        "input": "",
+        "output": "esses IV"
+    },
+    {
+        "instruction": "Which company makes Timken 1111 out of it?",
+        "input": "",
+        "output": "Timken Works"
+    },
+    {
+        "instruction": "Which place does Children Without exist in?",
+        "input": "",
+        "output": "New Jersey"
+    },
+    {
+        "instruction": "Which sports team included Veljko Simi\u0107?",
+        "input": "",
+        "output": "FK Senica"
+    },
+    {
+        "instruction": "When was Afrikaner Party abolished?",
+        "input": "",
+        "output": "1961"
+    },
+    {
+        "instruction": "The college Matthew Price took part in was what?",
+        "input": "",
+        "output": "University of Canterbury"
+    },
+    {
+        "instruction": "What's the name of the state where Hartest lies?",
+        "input": "",
+        "output": "Dordogne"
+    },
+    {
+        "instruction": "What does Ponte dell'Accademia cross?",
+        "input": "",
+        "output": "Corigliano"
+    },
+    {
+        "instruction": "In what war did Eug\u00e8ne-Casimir Villatte participate?",
+        "input": "",
+        "output": "War of 1812"
+    },
+    {
+        "instruction": "In what war or battle did Eug\u00e8ne-Casimir Villatte fight?",
+        "input": "",
+        "output": "World War II"
+    },
+    {
+        "instruction": "The head of Love Is the Power of Women is who?",
+        "input": "",
+        "output": "Gualtiero Jacopetti"
+    },
+    {
+        "instruction": "In which river \u017delivka is transformed?",
+        "input": "",
+        "output": "Oder"
+    },
+    {
+        "instruction": "What war did Herbert T. Levack fight in?",
+        "input": "",
+        "output": "American Civil War"
+    },
+    {
+        "instruction": "For which league did Southern California Fusion play in the upper league?",
+        "input": "",
+        "output": "National Premier Soccer League"
+    },
+    {
+        "instruction": "What was Eteocles' father's name?",
+        "input": "",
+        "output": "Dagobert"
+    },
+    {
+        "instruction": "Who is the father of Eteocles?",
+        "input": "",
+        "output": "Danehill"
+    },
+    {
+        "instruction": "Who's the father of Eteocles?",
+        "input": "",
+        "output": "Danehill"
+    },
+    {
+        "instruction": "What kind of sex is Laverne Eve?",
+        "input": "",
+        "output": "male"
+    },
+    {
+        "instruction": "How did Alberto Di Bernardo's team go?",
+        "input": "",
+        "output": "FC Porto"
+    },
+    {
+        "instruction": "What position has Paul Kohls taken?",
+        "input": "",
+        "output": "member of the Ohio House of Representatives"
+    },
+    {
+        "instruction": "Who was the creator of Parkour?",
+        "input": "",
+        "output": "Paul C\u00e9zanne"
+    },
+    {
+        "instruction": "What series was Donut Run in?",
+        "input": "",
+        "output": "South Park"
+    },
+    {
+        "instruction": "Which series is Donut Run from?",
+        "input": "",
+        "output": "30 Rock"
+    },
+    {
+        "instruction": "Donut Run is part of a show?",
+        "input": "",
+        "output": "South Park"
+    },
+    {
+        "instruction": "What manufacturing company was involved in The Legend of Mor'du?",
+        "input": "",
+        "output": "DreamWorks Animation"
+    },
+    {
+        "instruction": "When did Karstadt enter into existence?",
+        "input": "",
+        "output": "1902"
+    },
+    {
+        "instruction": "What place does Dixon of Dock Green exist in?",
+        "input": "",
+        "output": "South Africa"
+    },
+    {
+        "instruction": "What date is associated with Kegworth air disaster?",
+        "input": "",
+        "output": "5 February 1973"
+    },
+    {
+        "instruction": "What state is Yang Hom?",
+        "input": "",
+        "output": "Sang County"
+    },
+    {
+        "instruction": "What's the date of the death of Guido Nicheli?",
+        "input": "",
+        "output": "1921"
+    },
+    {
+        "instruction": "Which series is The Adventure of the Blanched Soldier part of the series?",
+        "input": "",
+        "output": "The Memoirs of Sherlock Holmes"
+    },
+    {
+        "instruction": "What series is The 7th Is Made Up of Phantoms part?",
+        "input": "",
+        "output": "Fringe"
+    },
+    {
+        "instruction": "What university did Frederick Robb study at?",
+        "input": "",
+        "output": "University of Minnesota"
+    },
+    {
+        "instruction": "What place did Deportivo Garcilaso play home games at?",
+        "input": "",
+        "output": "Estadio Municipal Roberto Bravo Santib\u00e1\u00f1ez"
+    },
+    {
+        "instruction": "What home stadium is Deportivo Garcilaso playing in?",
+        "input": "",
+        "output": " Garcilaso"
+    },
+    {
+        "instruction": "What is the home stadium of Deportivo Garcilaso?",
+        "input": "",
+        "output": " Garcilaso"
+    },
+    {
+        "instruction": "Who was an architect or designer of Estate Exchange?",
+        "input": "",
+        "output": "Welton Becket"
+    },
+    {
+        "instruction": "What position did George Norris Williams assume?",
+        "input": "",
+        "output": "United States Senator"
+    },
+    {
+        "instruction": "The date of birth of John Bryan Taylor is what?",
+        "input": "",
+        "output": "1946"
+    },
+    {
+        "instruction": "What year will the first version of the Discovery HD be released?",
+        "input": "",
+        "output": "2005"
+    },
+    {
+        "instruction": "What is the date of the death of Jos\u00e9 Vel\u00e1zquez?",
+        "input": "",
+        "output": "1921"
+    },
+    {
+        "instruction": "What sports team was Laurens Paulussen a member?",
+        "input": "",
+        "output": "Hamburger SV"
+    },
+    {
+        "instruction": "When was the death of Melit\u00f3n Cama\u00f1o?",
+        "input": "",
+        "output": "1961"
+    },
+    {
+        "instruction": "Which citizenship does Javier Beltr\u00e1n have?",
+        "input": "",
+        "output": "Paraguay"
+    },
+    {
+        "instruction": "Where did August Belmont IV learn or work?",
+        "input": "",
+        "output": "University of Michigan"
+    },
+    {
+        "instruction": "What is the name of the state in which Mittelholstein is located?",
+        "input": "",
+        "output": "Schwaben"
+    },
+    {
+        "instruction": "Which position was held by William Henry Phipps?",
+        "input": "",
+        "output": "Governor of New Jersey"
+    },
+    {
+        "instruction": "Which family does Argyroptocha belong to?",
+        "input": "",
+        "output": "Crambidae"
+    },
+    {
+        "instruction": "What town did Prince Charles Alexander of Lorraine live when he died?",
+        "input": "",
+        "output": "Saint Petersburg"
+    },
+    {
+        "instruction": "The date of Freda Swain's death is what?",
+        "input": "",
+        "output": "1955"
+    },
+    {
+        "instruction": "What company does Sinclair Cambridge do?",
+        "input": "",
+        "output": "Mercedes-Benz"
+    },
+    {
+        "instruction": "What day has Andr\u00e9 Antoine died?",
+        "input": "",
+        "output": "17 February 1882"
+    },
+    {
+        "instruction": "What is the country of the citizenship of St\u00e9phan Perrot?",
+        "input": "",
+        "output": "Belgium"
+    },
+    {
+        "instruction": "That country for Ang TV, huh?",
+        "input": "",
+        "output": "Sri Lanka"
+    },
+    {
+        "instruction": "The kind of voice Piero de Palma's what?",
+        "input": "",
+        "output": "soprano"
+    },
+    {
+        "instruction": "What wife was born by James Hemings?",
+        "input": "",
+        "output": "Charlotte Hemings"
+    },
+    {
+        "instruction": "Who is James Hemings' mother?",
+        "input": "",
+        "output": "Charlotte Hemings"
+    },
+    {
+        "instruction": "What lady was James Hemings born?",
+        "input": "",
+        "output": "Ernest Hemings"
+    },
+    {
+        "instruction": "What is Birger M\u00f8ller-Pedersen's work place?",
+        "input": "",
+        "output": "Norwegian Institute of Technology"
+    },
+    {
+        "instruction": "The show 1000 Ways to Die was originally broadcast in which network?",
+        "input": "",
+        "output": "The CW"
+    },
+    {
+        "instruction": "Which business has NASCAR Legends released?",
+        "input": "",
+        "output": "Activision"
+    },
+    {
+        "instruction": "Eka Peksha Ek's main director was who?",
+        "input": "",
+        "output": "Vijay Anand"
+    },
+    {
+        "instruction": "What place did Paul Bartsch die?",
+        "input": "",
+        "output": "Munich"
+    },
+    {
+        "instruction": "In what war did Lloyd Thomas fight?",
+        "input": "",
+        "output": "Second Boer War"
+    },
+    {
+        "instruction": "In what war did Lloyd Thomas fight?",
+        "input": "",
+        "output": "Spanish Civil War"
+    },
+    {
+        "instruction": "Which historic war did Lloyd Thomas participate?",
+        "input": "",
+        "output": "Spanish Civil War"
+    },
+    {
+        "instruction": "What's Fritz Bleyl's date of birth?",
+        "input": "",
+        "output": "19 March 1875"
+    },
+    {
+        "instruction": "Who was the one who led Bitter Apples?",
+        "input": "",
+        "output": "William Beaudine"
+    },
+    {
+        "instruction": "What sound does Gwendolyn Killebrew sing in?",
+        "input": "",
+        "output": "mezzo soprano"
+    },
+    {
+        "instruction": "What voice had Gwendolyn Killebrew?",
+        "input": "",
+        "output": "contralto"
+    },
+    {
+        "instruction": "What is Gwendolyn Killebrew's vocal programme?",
+        "input": "",
+        "output": "contralto"
+    },
+    {
+        "instruction": "Who is the person who is the mother of Fakhr-un-Nissa?",
+        "input": "",
+        "output": "Nazli Sabri"
+    },
+    {
+        "instruction": "Fakhr-un-Nissa's mother, who?",
+        "input": "",
+        "output": "Nissa I of Egypt"
+    },
+    {
+        "instruction": "The mother of Fakhr-un-Nissa, who is that?",
+        "input": "",
+        "output": "Khuzestan Province"
+    },
+    {
+        "instruction": "Who is the mother of Fakhr-un-Nissa?",
+        "input": "",
+        "output": "Khuzestan Empire"
+    },
+    {
+        "instruction": "How was Annette Daniels' range?",
+        "input": "",
+        "output": "contralto"
+    },
+    {
+        "instruction": "What is the body of the water of F\u00e4rings\u00f6?",
+        "input": "",
+        "output": "\u00d6rt\u00e4nge"
+    },
+    {
+        "instruction": "Which water body was F\u00e4rings\u00f6 next to him?",
+        "input": "",
+        "output": "\u00d6rt\u00e4nne"
+    },
+    {
+        "instruction": "What body of water was F\u00e4rings\u00f6 next to him?",
+        "input": "",
+        "output": "\u00d6rt\u00e4lje"
+    },
+    {
+        "instruction": "Whose direction's Mated in the Wilds?",
+        "input": "",
+        "output": "Robert J Flaherty"
+    },
+    {
+        "instruction": "Which fictional universe is Aul\u00eb a part?",
+        "input": "",
+        "output": "Masters of the Universe"
+    },
+    {
+        "instruction": "What's the name of the University that John Mortvedt trained?",
+        "input": "",
+        "output": "University of Copenhagen"
+    },
+    {
+        "instruction": "Where's the original channel that Motormouth played?",
+        "input": "",
+        "output": "The CW"
+    },
+    {
+        "instruction": "Which country is Heni D\u00e9r from?",
+        "input": "",
+        "output": "Switzerland"
+    },
+    {
+        "instruction": "In which year was the start-up date of Char 2C?",
+        "input": "",
+        "output": "1990"
+    },
+    {
+        "instruction": "What is the name of the constellation where 37 Geminorum belong?",
+        "input": "",
+        "output": "Ursa Major"
+    },
+    {
+        "instruction": "In what war did Marina Ginest\u00e0 serve?",
+        "input": "",
+        "output": "Algerian War"
+    },
+    {
+        "instruction": "After whom is the Innsbruck Cathedral named?",
+        "input": "",
+        "output": "Catering"
+    },
+    {
+        "instruction": "Who is the Order of Princess Olga named for?",
+        "input": "",
+        "output": "Grand Olga"
+    },
+    {
+        "instruction": "Which constellation is NGC 1265 a part of?",
+        "input": "",
+        "output": "Ursa Major"
+    },
+    {
+        "instruction": "What is the constellation that is created using HD 93607?",
+        "input": "",
+        "output": "Carina"
+    },
+    {
+        "instruction": "What is the city of Jim Eno's origin?",
+        "input": "",
+        "output": "San Francisco"
+    },
+    {
+        "instruction": "What city is the band Jim Eno in?",
+        "input": "",
+        "output": "San Francisco"
+    },
+    {
+        "instruction": "Who published Every Day is Mother's Day?",
+        "input": "",
+        "output": "Penguin Classics"
+    },
+    {
+        "instruction": "In what war did Severus William Lynam Stretton serve?",
+        "input": "",
+        "output": "Crimean War"
+    },
+    {
+        "instruction": "Which family is the Helferella?",
+        "input": "",
+        "output": "Helferellaidae"
+    },
+    {
+        "instruction": "Who was behind the creation of Verdala Palace?",
+        "input": "",
+        "output": "Giovanni Bellini"
+    },
+    {
+        "instruction": "Which person was Verdala Palace designed by?",
+        "input": "",
+        "output": "Giovanni Bellini"
+    },
+    {
+        "instruction": "The architect at Verdala Palace was who?",
+        "input": "",
+        "output": "Manfred Trenz"
+    },
+    {
+        "instruction": "Which architect did Verdala Palace design?",
+        "input": "",
+        "output": "Manfred Trenz"
+    },
+    {
+        "instruction": "Who was responsible for the design of the Verdala Palace?",
+        "input": "",
+        "output": "Pietro da Cortona"
+    },
+    {
+        "instruction": "What city is Gretta Taslakian from?",
+        "input": "",
+        "output": "Baku"
+    },
+    {
+        "instruction": "Which city is Gretta Taslakian?",
+        "input": "",
+        "output": "Armenia"
+    },
+    {
+        "instruction": "What river system contains the Elgi River?",
+        "input": "",
+        "output": "Gulf of Finland"
+    },
+    {
+        "instruction": "In what war or battle was William Drummond Matheson fighting?",
+        "input": "",
+        "output": "Crimean War"
+    },
+    {
+        "instruction": "Who was Dick Tracy's creator?",
+        "input": "",
+        "output": "Richard Eichberg"
+    },
+    {
+        "instruction": "With which industry is Noticias ECO linked?",
+        "input": "",
+        "output": "publishing"
+    },
+    {
+        "instruction": "Which city is the band Plutonik from?",
+        "input": "",
+        "output": "Brno"
+    },
+    {
+        "instruction": "What's the date Cardross road accident happened?",
+        "input": "",
+        "output": "23 March 1999"
+    },
+    {
+        "instruction": "What is the state of the San Dieguito Heritage Museum?",
+        "input": "",
+        "output": "Manhattan"
+    },
+    {
+        "instruction": "What is the endangered status of the Hyloxalus parcus?",
+        "input": "",
+        "output": "vulnerable"
+    },
+    {
+        "instruction": "What is the endangered status of Hyloxalus parcus?",
+        "input": "",
+        "output": "endangered species"
+    },
+    {
+        "instruction": "What is the endangered status of Hyloxalus parcus?",
+        "input": "",
+        "output": "endangered species"
+    },
+    {
+        "instruction": "How endangered does the iucn consider Hyloxalus parcus?",
+        "input": "",
+        "output": "near threatened"
+    },
+    {
+        "instruction": "What was Gibby Mbasela's date of death?",
+        "input": "",
+        "output": "17 September 2008"
+    },
+    {
+        "instruction": "What series is A Star Is Torn part of?",
+        "input": "",
+        "output": "The Twilight Zone"
+    },
+    {
+        "instruction": "The A Star Is Torn is part of one of which series?",
+        "input": "",
+        "output": "Bones"
+    },
+    {
+        "instruction": "The point in time of Suryamani massacre was what?",
+        "input": "",
+        "output": "27 April 1971"
+    },
+    {
+        "instruction": "What's the record label for Butterfly Rocket?",
+        "input": "",
+        "output": "Jive Records"
+    },
+    {
+        "instruction": "Which country does Mohammed Badaru Abubakar belong to as a citizen?",
+        "input": "",
+        "output": "Mali"
+    },
+    {
+        "instruction": "What wife did Prince Karl Johann of Liechtenstein give birth to?",
+        "input": "",
+        "output": "Princess Marie Louise of Schwarzburg-Gottorp"
+    },
+    {
+        "instruction": "What position did Stephen of Autun hold?",
+        "input": "",
+        "output": "archbishop"
+    },
+    {
+        "instruction": "What is the name of the record label of Last Stop Suburbia?",
+        "input": "",
+        "output": "Def Jam Recordings"
+    },
+    {
+        "instruction": "What was the label for Please Return Your Love to Me?",
+        "input": "",
+        "output": "Epic Records"
+    },
+    {
+        "instruction": "What's the name of Bo Guagua's father?",
+        "input": "",
+        "output": "Bo Guagua"
+    },
+    {
+        "instruction": "How is Bo Guagua's father?",
+        "input": "",
+        "output": "Gu Guagua"
+    },
+    {
+        "instruction": "When did Joanes Leizarraga die?",
+        "input": "",
+        "output": "19 March 2014"
+    },
+    {
+        "instruction": "Which artist or group has Cash Machine performed?",
+        "input": "",
+        "output": "Kenny Burrell"
+    },
+    {
+        "instruction": "Who dispossessed FGM-172 SRAW?",
+        "input": "",
+        "output": "Lockheed St John"
+    },
+    {
+        "instruction": "The song Looking On is of which artist?",
+        "input": "",
+        "output": "The Moody Blues"
+    },
+    {
+        "instruction": "What kind of sex is Ashleigh Hewson?",
+        "input": "",
+        "output": " gender"
+    },
+    {
+        "instruction": "The type of voice of Deborah York is what?",
+        "input": "",
+        "output": "mezzo-oprano"
+    },
+    {
+        "instruction": "What range was Deborah York?",
+        "input": "",
+        "output": "mezzo soprano"
+    },
+    {
+        "instruction": "What type is Deborah York?",
+        "input": "",
+        "output": "mezzo soprano"
+    },
+    {
+        "instruction": "What is the vocal bandwidth for Deborah York?",
+        "input": "",
+        "output": "mezzo soprano"
+    },
+    {
+        "instruction": "What kind of a voice is Deborah York?",
+        "input": "",
+        "output": "mezzo-srano"
+    },
+    {
+        "instruction": "What is the team associated with Bernardo Laureiro?",
+        "input": "",
+        "output": "FC Barcelona"
+    },
+    {
+        "instruction": "From which country does K\u00e1lm\u00e1n Kerpely come?",
+        "input": "",
+        "output": "Bolivia"
+    },
+    {
+        "instruction": "Zheng Cao's voice guy is what?",
+        "input": "",
+        "output": "countertenor"
+    },
+    {
+        "instruction": "Which company released Alien Front Online?",
+        "input": "",
+        "output": "2K Games"
+    },
+    {
+        "instruction": "What is the state of Kr\u00e4gga?",
+        "input": "",
+        "output": "Hesse"
+    },
+    {
+        "instruction": "What is the voice type of Stephanie Novacek?",
+        "input": "",
+        "output": "mezzo soprano"
+    },
+    {
+        "instruction": "Is Belle Golding a male or a female?",
+        "input": "",
+        "output": "male"
+    },
+    {
+        "instruction": "The person who is the mother of Catherine of Nassau-Dillenburg, who?",
+        "input": "",
+        "output": "Catherine of Cleves"
+    },
+    {
+        "instruction": "What was the name of the mother of Catherine of Nassau-Dillenburg?",
+        "input": "",
+        "output": "Catherine of Cleves"
+    },
+    {
+        "instruction": "What is the language in which Samtiden is?",
+        "input": "",
+        "output": "Estonian"
+    },
+    {
+        "instruction": "What was the record label for the Order in the Court?",
+        "input": "",
+        "output": "Atlantic Records"
+    },
+    {
+        "instruction": "What crime led to Edward Stransham's condemnation?",
+        "input": "",
+        "output": "crime against humanity"
+    },
+    {
+        "instruction": "What series is The Testament of Sherlock Holmes part?",
+        "input": "",
+        "output": " Sherlock Holmes"
+    },
+    {
+        "instruction": "Which team is Petr Mr\u00e1zek in?",
+        "input": "",
+        "output": "Vancouver Canucks"
+    },
+    {
+        "instruction": "Which team is Petr Mr\u00e1zek's?",
+        "input": "",
+        "output": "FK Senica"
+    },
+    {
+        "instruction": "What's Jacques G\u00e9rard's birth house?",
+        "input": "",
+        "output": "Bourges"
+    },
+    {
+        "instruction": "Where was Gustavo Matamoros?",
+        "input": "",
+        "output": "Argentina"
+    },
+    {
+        "instruction": "What was the war that Carl L. Christensen Jr. participated in?",
+        "input": "",
+        "output": "Korean War"
+    },
+    {
+        "instruction": "Which channel did Brutally Normal appear on first?",
+        "input": "",
+        "output": "FX"
+    },
+    {
+        "instruction": "What family belongs to the Euxinastra?",
+        "input": "",
+        "output": "Cerambycidae"
+    },
+    {
+        "instruction": "When did Mahesh Chandra Regmi's life come to an end?",
+        "input": "",
+        "output": "5 July 2008"
+    },
+    {
+        "instruction": "Who had the director's role in Each Time We Part Away?",
+        "input": "",
+        "output": "Cecil B DeMille"
+    },
+    {
+        "instruction": "Is Bao Yixin a man or woman?",
+        "input": "",
+        "output": "male"
+    },
+    {
+        "instruction": "How endangered does the Iucn Coptodon spongotroktis?",
+        "input": "",
+        "output": "Data Deficient"
+    },
+    {
+        "instruction": "How high is the conservation status of Coptodon spongotroktis?",
+        "input": "",
+        "output": "endangered species"
+    },
+    {
+        "instruction": "What is an ecological condition of Coptodon spongotroktis?",
+        "input": "",
+        "output": "endangered species"
+    },
+    {
+        "instruction": "What is the conservation status of Coptodon spongotroktis?",
+        "input": "",
+        "output": "critically threatened"
+    },
+    {
+        "instruction": "Who was created Rubenshuis?",
+        "input": "",
+        "output": "Antoni Gaud\u00ed"
+    },
+    {
+        "instruction": "Who was the designer for Rubenshuis?",
+        "input": "",
+        "output": "Antoni Gaud\u00ed"
+    },
+    {
+        "instruction": "The architect of Rubenshuis, who was that?",
+        "input": "",
+        "output": "Joris Ivens"
+    },
+    {
+        "instruction": "Where did \u00c9tienne Eustache Bruix live when he passed away?",
+        "input": "",
+        "output": "Saint-Malo"
+    },
+    {
+        "instruction": "How did Leonardo Azzaro's career go?",
+        "input": "",
+        "output": "architect"
+    },
+    {
+        "instruction": "Simon Blackburn's date of birth is what?",
+        "input": "",
+        "output": "1 July 1882"
+    },
+    {
+        "instruction": "What city is J\u00f6rg Schneider?",
+        "input": "",
+        "output": "Budapest"
+    },
+    {
+        "instruction": "Which team is Jean Natal Ratsimialona associated with?",
+        "input": "",
+        "output": "SC Monza"
+    },
+    {
+        "instruction": "Which label was the label for Gift Rap?",
+        "input": "",
+        "output": "Arista Records"
+    },
+    {
+        "instruction": "What kind of voice is Antoinette Miggiani having?",
+        "input": "",
+        "output": "mezzo soprano"
+    },
+    {
+        "instruction": "Which company is Balenciaga's parent company?",
+        "input": "",
+        "output": "Braganza"
+    },
+    {
+        "instruction": "Which city or city serves WYJB?",
+        "input": "",
+        "output": "Jasper"
+    },
+    {
+        "instruction": "In which year were the FIA Hill Climb Masters recorded?",
+        "input": "",
+        "output": "2011"
+    },
+    {
+        "instruction": "On what continent is Lewis Cliff located?",
+        "input": "",
+        "output": "North America"
+    },
+    {
+        "instruction": "What type of submarine was rated USS Wren (DD-568)?",
+        "input": "",
+        "output": "Clemson-class destroyer"
+    },
+    {
+        "instruction": "What type of submarine was USS Wren (DD-568) considered to be?",
+        "input": "",
+        "output": "Fletcher-class submarine"
+    },
+    {
+        "instruction": "What was Iullus Antonius' mother's name?",
+        "input": "",
+        "output": "Agrippina Theodora"
+    },
+    {
+        "instruction": "What lady gave birth to Iullus Antonius?",
+        "input": "",
+        "output": "Antiochia Iullia"
+    },
+    {
+        "instruction": "What position did Henry Edward Manning occupy?",
+        "input": "",
+        "output": "United States Senator"
+    },
+    {
+        "instruction": "What position has Henry Edward Manning taken?",
+        "input": "",
+        "output": "Governor of Vermont"
+    },
+    {
+        "instruction": "What sort of family is Olcostephanus?",
+        "input": "",
+        "output": "Pephanidae"
+    },
+    {
+        "instruction": "What illness caused Joseph Papp to die?",
+        "input": "",
+        "output": "pneumonia"
+    },
+    {
+        "instruction": "What is the cause of death of Joseph Papp?",
+        "input": "",
+        "output": "pancreatica"
+    },
+    {
+        "instruction": "What was the father of Geoffrey Keynes?",
+        "input": "",
+        "output": "John Keynes, 7th Earl of Northumberland"
+    },
+    {
+        "instruction": "What's the name of Geoffrey Keynes' father?",
+        "input": "",
+        "output": "John Keynes, 1st Earl of Northumberland"
+    },
+    {
+        "instruction": "Which team is associated with Deni Milo\u0161evi\u0107?",
+        "input": "",
+        "output": "FK Senica"
+    },
+    {
+        "instruction": "What city was born of Leonardo Castro?",
+        "input": "",
+        "output": "San Jos\u00e9"
+    },
+    {
+        "instruction": "With which team is Vadim Khomitsky associated?",
+        "input": "",
+        "output": "FC Kharkiv"
+    },
+    {
+        "instruction": "Which team is Vadim Khomitsky a member of?",
+        "input": "",
+        "output": "FC Kharkiv"
+    },
+    {
+        "instruction": "What causes of death were listed for Carlos Arruza?",
+        "input": "",
+        "output": "hunting accident"
+    },
+    {
+        "instruction": "How'd Lynn Loring's career go?",
+        "input": "",
+        "output": "novelist"
+    },
+    {
+        "instruction": "How was the date of the death of David Williams Higgins?",
+        "input": "",
+        "output": "1947"
+    },
+    {
+        "instruction": "What was the year Fritz X was put into service?",
+        "input": "",
+        "output": "1940"
+    },
+    {
+        "instruction": "What year was Fritz X doing?",
+        "input": "",
+        "output": "1940"
+    },
+    {
+        "instruction": "What was the year in which Fritz X was commissioned?",
+        "input": "",
+        "output": "1943"
+    },
+    {
+        "instruction": "Which year was Fritz X done?",
+        "input": "",
+        "output": "1943"
+    },
+    {
+        "instruction": "What is the name of the university that Tanvir Ahmad Khan trained?",
+        "input": "",
+        "output": "Aligarh Muslim University"
+    },
+    {
+        "instruction": "What is Freaked!'s record label?",
+        "input": "",
+        "output": "Arista Records"
+    },
+    {
+        "instruction": "What year did the SR N15X class enter the service?",
+        "input": "",
+        "output": "1966"
+    },
+    {
+        "instruction": "In which year was the date of service entry for the SR N15X class?",
+        "input": "",
+        "output": "1990"
+    },
+    {
+        "instruction": "Which year has the SR N15X class been introduced?",
+        "input": "",
+        "output": "1975"
+    },
+    {
+        "instruction": "The song Colorhythm was created by whom?",
+        "input": "",
+        "output": "Lil' Mo"
+    },
+    {
+        "instruction": "What date of birth did Diana E. H. Russell?",
+        "input": "",
+        "output": "1956"
+    },
+    {
+        "instruction": "What kind of voice do Marie Hayward have?",
+        "input": "",
+        "output": "mezzo-srano"
+    },
+    {
+        "instruction": "What license does StumpWM have?",
+        "input": "",
+        "output": "BSD license"
+    },
+    {
+        "instruction": "When was the creation of the Social Reform Party?",
+        "input": "",
+        "output": "1909"
+    },
+    {
+        "instruction": "What war did Henry Mowat have in the war?",
+        "input": "",
+        "output": "World War I"
+    },
+    {
+        "instruction": "In which company is the IUPAC/IUPAP Joint Working Party represented?",
+        "input": "",
+        "output": "UPAC/IUPAP Friendship Association"
+    },
+    {
+        "instruction": "What fictional universe is the figure \u00c9owyn associated with?",
+        "input": "",
+        "output": "Known Space"
+    },
+    {
+        "instruction": "What universe does \u00c9owyn exist in?",
+        "input": "",
+        "output": "Babylon 5 universe"
+    },
+    {
+        "instruction": "What is the fictional universe that has \u00c9owyn?",
+        "input": "",
+        "output": "Babylon 5 universe"
+    },
+    {
+        "instruction": "What's the universe in which \u00c9owyn lives?",
+        "input": "",
+        "output": "Babylon 5 universe"
+    },
+    {
+        "instruction": "What kind of universe is \u00c9owyn a fictitious character in?",
+        "input": "",
+        "output": "Tolkien legendarium"
+    },
+    {
+        "instruction": "What sort of voice is Janet Monach Patey?",
+        "input": "",
+        "output": "mezzo-oprano"
+    },
+    {
+        "instruction": "Norman Mittelmann's voice is what?",
+        "input": "",
+        "output": "soprano"
+    },
+    {
+        "instruction": "Who had the role of a director in Pidakkozhi Koovunna Noottandu?",
+        "input": "",
+        "output": "J Sasikumar"
+    },
+    {
+        "instruction": "What was Wu Huawen's conflict?",
+        "input": "",
+        "output": "War of 1812"
+    },
+    {
+        "instruction": "What was Synthetoceratinae's family?",
+        "input": "",
+        "output": "Cerambycidae"
+    },
+    {
+        "instruction": "Which war was Albert Coady Wedemeyer in?",
+        "input": "",
+        "output": "World War II"
+    },
+    {
+        "instruction": "The artwork Ecce Ancilla Domini by who?",
+        "input": "",
+        "output": "Vittorio De Sica"
+    },
+    {
+        "instruction": "Which production company or which companies founded Mr. Duck Steps Out?",
+        "input": "",
+        "output": "Walt Disney Pictures"
+    },
+    {
+        "instruction": "Which production company or which companies have Mr. Duck Steps Out created?",
+        "input": "",
+        "output": "Walt Disney Pictures"
+    },
+    {
+        "instruction": "What is the type of ship USS Bullard (DD-660)?",
+        "input": "",
+        "output": "Wickes-class destroyer"
+    },
+    {
+        "instruction": "What type of ship is the USS Bullard (DD-660)?",
+        "input": "",
+        "output": "Wickes-class destroyer"
+    },
+    {
+        "instruction": "Of which series is Dynamic Duets part?",
+        "input": "",
+        "output": "The Twilight Zone"
+    },
+    {
+        "instruction": "What series is Dynamic Duets apart from?",
+        "input": "",
+        "output": "South Park"
+    },
+    {
+        "instruction": "What's the position of Daniel Haines?",
+        "input": "",
+        "output": "member of the Louisiana House of Representatives"
+    },
+    {
+        "instruction": "Which team is Diego Rivas Rego affiliated?",
+        "input": "",
+        "output": "Club Guaran\u00ed"
+    },
+    {
+        "instruction": "What fictional work is Tamwar Masood a character in?",
+        "input": "",
+        "output": "Neighbours"
+    },
+    {
+        "instruction": "What are the publishers of the Journal of Statistical Software?",
+        "input": "",
+        "output": " Statistical Software Institute"
+    },
+    {
+        "instruction": "Who are the stars from the movie Key Exchange?",
+        "input": "",
+        "output": "Lon Chaney"
+    },
+    {
+        "instruction": "When did Allan Stone get born?",
+        "input": "",
+        "output": "1956"
+    },
+    {
+        "instruction": "Who's the director of Muddu Bidda?",
+        "input": "",
+        "output": "P Bhaskaran"
+    },
+    {
+        "instruction": "What is the constellation Wolf 359?",
+        "input": "",
+        "output": "Auriga"
+    },
+    {
+        "instruction": "The Christmas List manufacturing company was what?",
+        "input": "",
+        "output": "Aardman Animations"
+    },
+    {
+        "instruction": "What company was The Christmas List released by?",
+        "input": "",
+        "output": "Ealing Studios"
+    },
+    {
+        "instruction": "When's Cassiopeia Dwarf discovered?",
+        "input": "",
+        "output": "1925"
+    },
+    {
+        "instruction": "The date of discovery or the year of Cassiopeia Dwarf?",
+        "input": "",
+        "output": "19 Dwarf"
+    },
+    {
+        "instruction": "When was Cassiopeia Dwarf found?",
+        "input": "",
+        "output": "19 Dwarf"
+    },
+    {
+        "instruction": "What caused Dana Wynter's death?",
+        "input": "",
+        "output": " Dana- Wynter"
+    },
+    {
+        "instruction": "What land is MedTalk from?",
+        "input": "",
+        "output": "United Nations"
+    },
+    {
+        "instruction": "To which country does Trygve Retvik belong?",
+        "input": "",
+        "output": "Sweden"
+    },
+    {
+        "instruction": "The publisher that published Continuity and Change is what?",
+        "input": "",
+        "output": "BBC Books"
+    },
+    {
+        "instruction": "Who was the publisher of Continuity and Change?",
+        "input": "",
+        "output": "BBC Books"
+    },
+    {
+        "instruction": "What war or battle was Ridgely Gaither fighting in?",
+        "input": "",
+        "output": "World War II"
+    },
+    {
+        "instruction": "What war was Ridgely Gaither in?",
+        "input": "",
+        "output": "World War II"
+    },
+    {
+        "instruction": "Who's Tem\u00fcge's mom?",
+        "input": "",
+        "output": "Idril I"
+    },
+    {
+        "instruction": "What's the date of birth of Mira W.?",
+        "input": "",
+        "output": "1947"
+    },
+    {
+        "instruction": "In which family is Eumaragma a part?",
+        "input": "",
+        "output": "Crambidae"
+    },
+    {
+        "instruction": "Which director has led the film Man on Ground?",
+        "input": "",
+        "output": "D W Griffith"
+    },
+    {
+        "instruction": "The publisher that published Reckless Engineering is what?",
+        "input": "",
+        "output": "Sega"
+    },
+    {
+        "instruction": "What is the name of the state where the Sarvant Glacier lies?",
+        "input": "",
+        "output": "California"
+    },
+    {
+        "instruction": "Who was the Avittonia family?",
+        "input": "",
+        "output": "Crambidae"
+    },
+    {
+        "instruction": "What was the record label of The Queen and the Dreams?",
+        "input": "",
+        "output": "Motown"
+    },
+    {
+        "instruction": "Which architect did Ch\u00e2teau Mont-Royal design?",
+        "input": "",
+        "output": "Jean de la Vall\u00e9e"
+    },
+    {
+        "instruction": "Which architect has Ch\u00e2teau Mont-Royal designed?",
+        "input": "",
+        "output": "\u00c9douard Niermans"
+    },
+    {
+        "instruction": "The Ch\u00e2teau Mont-Royal designer?",
+        "input": "",
+        "output": "Fran\u00e7ois Mansart"
+    },
+    {
+        "instruction": "Who designed this Ch\u00e2teau Mont-Royal?",
+        "input": "",
+        "output": "Fran\u00e7ois Mansart"
+    },
+    {
+        "instruction": "What architect did Ch\u00e2teau Mont-Royal design?",
+        "input": "",
+        "output": "Claude Nicolas Ledoux"
+    },
+    {
+        "instruction": "Who is the architect for the Ch\u00e2teau Mont-Royal?",
+        "input": "",
+        "output": "Fran\u00e7ois Mansart"
+    },
+    {
+        "instruction": "What architect has Ch\u00e2teau Mont-Royal designed?",
+        "input": "",
+        "output": "Claude Nicolas Ledoux"
+    },
+    {
+        "instruction": "Which production company is involved in Bottled Passion?",
+        "input": "",
+        "output": "Walt Disney Pictures"
+    },
+    {
+        "instruction": "Which studio produced Bottled Passion?",
+        "input": "",
+        "output": "TriBeCa Pictures"
+    },
+    {
+        "instruction": "What artist has Halle Berry (She's Fine) created?",
+        "input": "",
+        "output": "Sacha Baron Cohen"
+    },
+    {
+        "instruction": "What's the position of Melissa Magstadt?",
+        "input": "",
+        "output": "member of the Illinois House of Representatives"
+    },
+    {
+        "instruction": "When was 503 Evelyn discovered first?",
+        "input": "",
+        "output": "1970"
+    },
+    {
+        "instruction": "When does the 503 Evelyn discover?",
+        "input": "",
+        "output": "17 503"
+    },
+    {
+        "instruction": "What is discovered in the year 503 Evelyn?",
+        "input": "",
+        "output": " 503-542"
+    },
+    {
+        "instruction": "When did 503 Evelyn be found or built?",
+        "input": "",
+        "output": "17 503"
+    },
+    {
+        "instruction": "When did the 503 Evelyn discover?",
+        "input": "",
+        "output": "1970"
+    },
+    {
+        "instruction": "What's the full date for the discovery of 503 Evelyn?",
+        "input": "",
+        "output": "17 503"
+    },
+    {
+        "instruction": "Which year was 503 Evelyn discovered?",
+        "input": "",
+        "output": "17 503"
+    },
+    {
+        "instruction": "Which was the record label from My Very Special Guests?",
+        "input": "",
+        "output": "Motown"
+    },
+    {
+        "instruction": "What is the name of the publisher of Street Rod 2?",
+        "input": "",
+        "output": "Sierra Entertainment"
+    },
+    {
+        "instruction": "What is the publisher who released Crashday?",
+        "input": "",
+        "output": "Sega"
+    },
+    {
+        "instruction": "What noble family came from Carl, Duke of W\u00fcrttemberg?",
+        "input": "",
+        "output": "Hohenzollern"
+    },
+    {
+        "instruction": "Which is the last year of Hohenlychen Sanatorium?",
+        "input": "",
+        "output": "1801"
+    },
+    {
+        "instruction": "What's Fermi's interaction named for?",
+        "input": "",
+        "output": "Fermi people"
+    },
+    {
+        "instruction": "On which moon or planet can you find Vastitas Borealis?",
+        "input": "",
+        "output": "Moon"
+    },
+    {
+        "instruction": "The distributor of Atlantis, the Lost Continent was whom?",
+        "input": "",
+        "output": "Columbia Records"
+    },
+    {
+        "instruction": "What company made Atlantis, the Lost Continent?",
+        "input": "",
+        "output": "Paramount Pictures"
+    },
+    {
+        "instruction": "Who was Hawkster's male father?",
+        "input": "",
+        "output": "Hobart"
+    },
+    {
+        "instruction": "What is Kurt Weiland's place of work?",
+        "input": "",
+        "output": "Cornell University"
+    },
+    {
+        "instruction": "What is XTO Energy's parent company?",
+        "input": "",
+        "output": "XTO Corporation"
+    },
+    {
+        "instruction": "What family are Epaspidoceras?",
+        "input": "",
+        "output": "Noctuidae"
+    },
+    {
+        "instruction": "Who called Francium?",
+        "input": "",
+        "output": "Margaret of Sicily"
+    },
+    {
+        "instruction": "The Francium has been named after who?",
+        "input": "",
+        "output": "Margaret of Sicily"
+    },
+    {
+        "instruction": "Who was the film director of Golanthara Vartha?",
+        "input": "",
+        "output": "Vijay Anand"
+    },
+    {
+        "instruction": "The show The Ray Bradbury Theater was originally broadcast on which network?",
+        "input": "",
+        "output": "Fox Television Network"
+    },
+    {
+        "instruction": "Where does Shivajirao Adhalarao Patil come from?",
+        "input": "",
+        "output": "Telugu"
+    },
+    {
+        "instruction": "The father of Baderics was who?",
+        "input": "",
+        "output": "Cicero"
+    },
+    {
+        "instruction": "Who is Baderic's father?",
+        "input": "",
+        "output": "Chironom"
+    },
+    {
+        "instruction": "What historic war was Eduard Ritter von Dostler involved in?",
+        "input": "",
+        "output": "War of 1812"
+    },
+    {
+        "instruction": "What kind of voice had Teresa Cornelys?",
+        "input": "",
+        "output": "mezzo-oprano"
+    },
+    {
+        "instruction": "What country is Sakarias Jaan Leppik from?",
+        "input": "",
+        "output": "Malaysia"
+    },
+    {
+        "instruction": "What is Devon Fisher playing for?",
+        "input": "",
+        "output": "Tampa Bay Buccaneers"
+    },
+    {
+        "instruction": "Which one was the label for The Element of Surprise?",
+        "input": "",
+        "output": "Arista Records"
+    },
+    {
+        "instruction": "Who has created Bell P-63 Kingcobra?",
+        "input": "",
+        "output": "Bell P-3"
+    },
+    {
+        "instruction": "- Who was Donika Kastrioti's father?",
+        "input": "",
+        "output": "Kastrioti Husain"
+    },
+    {
+        "instruction": "Which team is assigned to Jackson Thurlow?",
+        "input": "",
+        "output": "New York Giants"
+    },
+    {
+        "instruction": "What state is in Elsen?",
+        "input": "",
+        "output": "Hesse"
+    },
+    {
+        "instruction": "What network originally housed Jay Leno's Garage?",
+        "input": "",
+        "output": "Comedy Central"
+    },
+    {
+        "instruction": "Where did Henry Bedel study or worked?",
+        "input": "",
+        "output": "University of California, Berkeley"
+    },
+    {
+        "instruction": "To which country belongs Zden\u011bk Nejedl\u00fd as his citizen?",
+        "input": "",
+        "output": "Slovakia"
+    },
+    {
+        "instruction": "What was the title that Sir Richard Osborne, 2nd Baronet held?",
+        "input": "",
+        "output": "Baron Osborne"
+    },
+    {
+        "instruction": "Who has developed Shpitalny Sh-37?",
+        "input": "",
+        "output": "Shpitalny Aviation Systems"
+    },
+    {
+        "instruction": "Who was the designer of Shpitalny Sh-37?",
+        "input": "",
+        "output": "Mikhail Kalashnikov"
+    },
+    {
+        "instruction": "What year was the end of Persian Socialist Soviet Republic?",
+        "input": "",
+        "output": "1933"
+    },
+    {
+        "instruction": "Where the network aired American Body Shop?",
+        "input": "",
+        "output": "Discovery Channel"
+    },
+    {
+        "instruction": "What company was The Circus Man released by?",
+        "input": "",
+        "output": "Columbia Pictures"
+    },
+    {
+        "instruction": "Which company was dismissed from The Circus Man?",
+        "input": "",
+        "output": "Columbia Pictures"
+    },
+    {
+        "instruction": "What type of voice is Nellie Briercliffe?",
+        "input": "",
+        "output": "mezzo-oprano"
+    },
+    {
+        "instruction": "Which was the voice type that Nellie Briercliffe had?",
+        "input": "",
+        "output": "mezzo-oprano"
+    },
+    {
+        "instruction": "What's the name of the publisher of Silversands?",
+        "input": "",
+        "output": "HarperCollins"
+    },
+    {
+        "instruction": "What's the name of the publisher of Silversands?",
+        "input": "",
+        "output": "Ace Books"
+    },
+    {
+        "instruction": "Which product does Northparkes produce?",
+        "input": "",
+        "output": "hydrogen chloride"
+    },
+    {
+        "instruction": "What was the label of Sub Noize Souljaz?",
+        "input": "",
+        "output": "Columbia Records"
+    },
+    {
+        "instruction": "What was the Sub Noize Souljaz label?",
+        "input": "",
+        "output": "Virgin Records"
+    },
+    {
+        "instruction": "What state is Old Middletown High School in?",
+        "input": "",
+        "output": "New Jersey"
+    },
+    {
+        "instruction": "Which State is New Windsor Historic District located?",
+        "input": "",
+        "output": "New Jersey"
+    },
+    {
+        "instruction": "What ethnic group belongs to Marie Bunel?",
+        "input": "",
+        "output": "German"
+    },
+    {
+        "instruction": "Which university is related to Paul Haeberli?",
+        "input": "",
+        "output": "University of Hamburg"
+    },
+    {
+        "instruction": "What's the name of Calcified Tissue International publisher?",
+        "input": "",
+        "output": "Candlewick Press"
+    },
+    {
+        "instruction": "- Leto's mom's who?",
+        "input": "",
+        "output": "Fausta"
+    },
+    {
+        "instruction": "What was the Leto mother's name?",
+        "input": "",
+        "output": "Faustina"
+    },
+    {
+        "instruction": "Leto's mother? Who?",
+        "input": "",
+        "output": "Fausta"
+    },
+    {
+        "instruction": "The home country for David Golder is what?",
+        "input": "",
+        "output": "Canada"
+    },
+    {
+        "instruction": "Who's in Mantralaya Mahatme as a cast member?",
+        "input": "",
+        "output": "Vishnuvardhan"
+    },
+    {
+        "instruction": "The director of The Worst Movie Ever! what is this?",
+        "input": "",
+        "output": "Alan Hackman"
+    },
+    {
+        "instruction": "Which record label for Lee Hi?",
+        "input": "",
+        "output": "EMI"
+    },
+    {
+        "instruction": "Who's the director of Channel Crossing?",
+        "input": "",
+        "output": "Lloyd Kaufman"
+    },
+    {
+        "instruction": "What war did Attilio Imolesi take part in?",
+        "input": "",
+        "output": "Spanish Civil War"
+    },
+    {
+        "instruction": "What was the war Attilio Imolesi was fighting in?",
+        "input": "",
+        "output": "Spanish Civil War"
+    },
+    {
+        "instruction": "The cause of Mike Bongiorno's death was what?",
+        "input": "",
+        "output": "Parkinson's disease"
+    },
+    {
+        "instruction": "What state is Anbar Sara?",
+        "input": "",
+        "output": "Kermanshah Province"
+    },
+    {
+        "instruction": "What year has Palace Software finished?",
+        "input": "",
+        "output": "2003"
+    },
+    {
+        "instruction": "When was Philipp Orter's birth?",
+        "input": "",
+        "output": "20 April 1894"
+    },
+    {
+        "instruction": "Who are the stars of film Filmed in Supermarionation?",
+        "input": "",
+        "output": "Lon Chaney"
+    },
+    {
+        "instruction": "What was the cause of the death of Jos\u00e9 Wilker?",
+        "input": "",
+        "output": "yellow fever"
+    },
+    {
+        "instruction": "What was Craig Pedersen's career?",
+        "input": "",
+        "output": "ice hockey player"
+    },
+    {
+        "instruction": "What is the language of OpenCV?",
+        "input": "",
+        "output": "Java"
+    },
+    {
+        "instruction": "What city were William Smithers born in?",
+        "input": "",
+        "output": "San Francisco"
+    },
+    {
+        "instruction": "For what team does Paul Medhurst play?",
+        "input": "",
+        "output": "Toronto Maple Leafs"
+    },
+    {
+        "instruction": "Which level is Javan surilis ucn conservation status?",
+        "input": "",
+        "output": "vulnerable"
+    },
+    {
+        "instruction": "What is Javan surilis ucn conservation status?",
+        "input": "",
+        "output": "critically threatened"
+    },
+    {
+        "instruction": "How high is the endangered status of Javan surili?",
+        "input": "",
+        "output": "critically threatened"
+    },
+    {
+        "instruction": "What was Joseph Piston's conflict in?",
+        "input": "",
+        "output": "American Civil War"
+    },
+    {
+        "instruction": "The star NGC 2298 is part of the constellation NGC 2298 what is called?",
+        "input": "",
+        "output": "Pegasus"
+    },
+    {
+        "instruction": "Which label was responsible for Wasted Days?",
+        "input": "",
+        "output": "Atlantic Records"
+    },
+    {
+        "instruction": "Which label is responsible for No Hay Igual?",
+        "input": "",
+        "output": "Epic Records"
+    },
+    {
+        "instruction": "What noble family was Prince Ludwig Ferdinand of Bavaria part of?",
+        "input": "",
+        "output": "Hohenzollern"
+    },
+    {
+        "instruction": "What is the date of birth of Nermin \u010celikovi\u0107?",
+        "input": "",
+        "output": "8 September 1981"
+    },
+    {
+        "instruction": "What is the birth town of Jean-Claude Narcys?",
+        "input": "",
+        "output": "Bourges"
+    },
+    {
+        "instruction": "What position did John Norquay have?",
+        "input": "",
+        "output": "United States Senator"
+    },
+    {
+        "instruction": "Which record label is Ray Guns Are Not Just the Future?",
+        "input": "",
+        "output": "Roc Nation"
+    },
+    {
+        "instruction": "Which digital media have Peepli Live announced?",
+        "input": "",
+        "output": "Peepli Entertainment"
+    },
+    {
+        "instruction": "Who was the distributor of Peepli Live?",
+        "input": "",
+        "output": "IFC Entertainment"
+    },
+    {
+        "instruction": "The distributor of Peepli Live was whom?",
+        "input": "",
+        "output": "Peepli Entertainment"
+    },
+    {
+        "instruction": "Which state is located in Choysky District?",
+        "input": "",
+        "output": "Khabarovsk Krai"
+    },
+    {
+        "instruction": "What's Oomalama's record label?",
+        "input": "",
+        "output": "Sony Music Entertainment"
+    },
+    {
+        "instruction": "Where is Philip Delano born?",
+        "input": "",
+        "output": "San Francisco"
+    },
+    {
+        "instruction": "Who developed How to Explain Pictures to a Dead Hare?",
+        "input": "",
+        "output": "\u00c9douard Manet"
+    },
+    {
+        "instruction": "The genus Violagonum is a part of which family?",
+        "input": "",
+        "output": "Phalangiidae"
+    },
+    {
+        "instruction": "Where'd Michael Harbottle learn or work?",
+        "input": "",
+        "output": "Columbia University"
+    },
+    {
+        "instruction": "Where did Josef Lada reside when he died?",
+        "input": "",
+        "output": "Seville"
+    },
+    {
+        "instruction": "What's George Shenton's birth date?",
+        "input": "",
+        "output": "20 March 1856"
+    },
+    {
+        "instruction": "What city was Thomas Heywood dead in?",
+        "input": "",
+        "output": "Oxford"
+    },
+    {
+        "instruction": "The date from Joe Van Holsbeeck was what?",
+        "input": "",
+        "output": "1954"
+    },
+    {
+        "instruction": "What was the date of Joe Van Holsbeeck?",
+        "input": "",
+        "output": "1961"
+    },
+    {
+        "instruction": "Which country did Constantin Br\u00e2ncu\u0219i live in?",
+        "input": "",
+        "output": "Romanian Empire"
+    },
+    {
+        "instruction": "Over what river does Dexter Coffin Bridge cross?",
+        "input": "",
+        "output": "Connecticut Creek"
+    },
+    {
+        "instruction": "What is the surface of Captain Lord George Graham in his Cabin made of?",
+        "input": "",
+        "output": "bronze"
+    }
+]
