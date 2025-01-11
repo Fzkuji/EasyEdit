@@ -99,7 +99,7 @@ python run_zsre_llama2.py \
 python run_zsre_llama2.py \
     --editing_method=MEMIT \
     --hparams_dir=../hparams/MEMIT/llama-7b \
-    --data_dir=./data
+    --data_dir=../data/portability/One\ Hop
 ```
 
 - `MEMIT` cannot bypass the computation of second-order momentum, so it requires the `npz` related to Wikipedia (either computed locally or obtained online).
@@ -125,7 +125,7 @@ python run_zsre_llama2.py \
 python run_zsre_llama2.py \
     --editing_method=FT \
     --hparams_dir=../hparams/FT/llama-7b \
-    --data_dir=./data
+    --data_dir=../data/portability/One\ Hop
 ```
 
 ### KN
@@ -134,7 +134,7 @@ python run_zsre_llama2.py \
 python run_zsre_llama2.py \
     --editing_method=KN \
     --hparams_dir=../hparams/KN/llama-7b \
-    --data_dir=./data
+    --data_dir=../data/portability/One\ Hop
 ```
 
 ### IKE
@@ -143,7 +143,7 @@ python run_zsre_llama2.py \
 python run_zsre_llama2.py \
     --editing_method=IKE \
     --hparams_dir=../hparams/IKE/llama-7b \
-    --data_dir=./data
+    --data_dir=../data/portability/One\ Hop
 ```
 
 ### LoRA
@@ -152,8 +152,9 @@ python run_zsre_llama2.py \
 python run_zsre_llama2.py \
     --editing_method=LoRA \
     --hparams_dir=../hparams/LoRA/llama-7b \
-    --data_dir=./data
+    --data_dir=../data/portability/One\ Hop
 ```
+
 # Citation
 ```bibtex
 @article{yao2023editing,
