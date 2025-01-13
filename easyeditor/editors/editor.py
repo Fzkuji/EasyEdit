@@ -296,12 +296,18 @@ class BaseEditor:
             metrics = kwargs['pre_edit']
             all_metrics = metrics
         else:
+            # 加载开源模型
+            from transformers import AutoModelForCausalLM, AutoTokenizer
+
+            pretrained_model_name = 'meta-llama/Llama-2-7b-chat-hf'
+            pretrained_model = AutoModelForCausalLM.from_pretrained(pretrained_model_name, device_map="balanced")
+
             for i, request in enumerate(tqdm(requests)):
                 if self.alg_name == 'IKE':
                     assert 'train_ds' in kwargs.keys(), print('IKE need train_ds(For getting In-Context prompt)')
                     metrics = {"pre": compute_icl_edit_quality(self.model, self.model_name, self.hparams, self.tok, [''], request, self.hparams.device, pre_edit=True)}
                 else:
-                    metrics = {"pre": compute_edit_quality(self.model, self.model_name, self.hparams, self.tok, request, self.hparams.device, eval_metric=eval_metric, test_generation=test_generation)}
+                    metrics = {"pre": compute_edit_quality(pretrained_model, pretrained_model_name, self.hparams, self.tok, request, self.hparams.device, eval_metric=eval_metric, test_generation=test_generation)}
                 all_metrics.append(metrics)
             if 'pre_file' in kwargs and kwargs['pre_file'] is not None:
                 json.dump(all_metrics, open(kwargs['pre_file'], 'w'), indent=4)
