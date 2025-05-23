@@ -47,8 +47,7 @@ if __name__ == "__main__":
 
     if args.data_type == 'ZsRE':
         edit_data = json.load(open(f'{args.data_dir}/{args.data_type}/zsre_mend_edit.json', 'r', encoding='utf-8'))[:K]
-        loc_data = json.load(open(f'{args.data_dir}/{args.data_type}/zsre_mend_train.json', 'r', encoding='utf-8'))[:K]
-        loc_prompts = [edit_data_['loc'] + ' ' + edit_data_['loc_ans'] for edit_data_ in loc_data]
+        loc_prompts = [edit_data_['loc'] + ' ' + edit_data_['loc_ans'] for edit_data_ in edit_data]
 
         prompts = [edit_data_['src'] for edit_data_ in edit_data]
         subject = [edit_data_['subject'] for edit_data_ in edit_data]
@@ -60,6 +59,14 @@ if __name__ == "__main__":
             'neighborhood':{
                 'prompt': locality_prompts,
                 'ground_truth': locality_ans
+            },
+        }
+        portability_prompts = [edit_data_['portability']['New Question'] for edit_data_ in edit_data]
+        portability_ans = [edit_data_['portability']['New Answer'] for edit_data_ in edit_data]
+        portability_inputs = {
+            'one_hop': {
+                'prompt': portability_prompts,
+                'ground_truth': portability_ans
             },
         }
     elif args.data_type == 'hallucination':
@@ -122,7 +129,8 @@ if __name__ == "__main__":
         subject=subject,
         locality_inputs=locality_inputs,
         sequential_edit=args.sequential_edit,
-        eval_metric=eval_metric[args.data_type]
+        eval_metric=eval_metric[args.data_type],
+        portability_inputs=portability_inputs,
     )
 
     with open(output_file, 'w') as f:

@@ -166,7 +166,8 @@ if __name__ == "__main__":
         # locality_inputs=locality_inputs,
         # portability_inputs=portability_inputs,
         keep_original_weight=True,
-        metric_kwargs=metric_kwargs
+        metric_kwargs=metric_kwargs,
+        sequential_edit=True,
     )
 
     if not os.path.exists(args.metrics_save_dir):

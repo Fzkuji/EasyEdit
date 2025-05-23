@@ -3,6 +3,9 @@ import os.path as path
 import sys
 import json
 import random
+
+
+
 sys.path.append('..')
 from easyeditor import (
     FTHyperParams, 
@@ -262,9 +265,22 @@ if __name__ == "__main__":
         pre_file=args.pre_file,
         pre_edit = pre_edit,
         test_generation=True,
+        sequential_edit=True,
     )
     if not os.path.exists(args.metrics_save_dir):
         os.makedirs(args.metrics_save_dir)
     result_path = os.path.join(args.metrics_save_dir, f'{args.editing_method}_{args.datatype}_{hparams.model_name.split("/")[-1]}_results.json')
+
+    # Save the edited model as hf model
+    if not os.path.exists(os.path.join(args.metrics_save_dir, f'{args.editing_method}/{args.datatype}')):
+        os.makedirs(os.path.join(args.metrics_save_dir, f'{args.editing_method}/{args.datatype}'))
+    edited_model.save_pretrained(os.path.join(args.metrics_save_dir, f'{args.editing_method}/{args.datatype}/{hparams.model_name.split("/")[-1]}_edited_model'))
+
+    from transformers import AutoTokenizer
+
+    # 保存 tokenizer
+    tokenizer = AutoTokenizer.from_pretrained(hparams.model_name)
+    tokenizer.save_pretrained(os.path.join(args.metrics_save_dir, f'{args.editing_method}/{args.datatype}/{hparams.model_name.split("/")[-1]}_edited_model'))
+
     json.dump(metrics, open(result_path, 'w'), indent=4)
     eval(result_path)
